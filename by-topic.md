@@ -1926,7 +1926,7 @@
 - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 - [rien/reStream](https://github.com/rien/reStream) - Stream your reMarkable screen over SSH.
 - [itsfoss/compress-pdf](https://github.com/itsfoss/compress-pdf) - A simple tool that allows you to compress PDF files
-- [NorESMhub/NorESM](https://github.com/NorESMhub/NorESM) - Norwegian Earth System Model and Documentation
+- [NorESMhub/NorESM](https://github.com/NorESMhub/NorESM) - Norwegian Earth System Model
 - [ESCOMP/CESM](https://github.com/ESCOMP/CESM) - The Community Earth System Model
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
