@@ -802,7 +802,7 @@
 - [Evidlo/remarkable_mouse](https://github.com/Evidlo/remarkable_mouse) - use your reMarkable as a graphics tablet
 - [itsfoss/compress-pdf](https://github.com/itsfoss/compress-pdf) - A simple tool that allows you to compress PDF files
 - [wemake-services/wemake-python-package](https://github.com/wemake-services/wemake-python-package) - Bleeding edge cookiecutter template to create new python packages
-- [NorESMhub/NorESM](https://github.com/NorESMhub/NorESM) - Norwegian Earth System Model and Documentation
+- [NorESMhub/NorESM](https://github.com/NorESMhub/NorESM) - Norwegian Earth System Model
 - [TezRomacH/python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure.
 - [ESCOMP/CESM](https://github.com/ESCOMP/CESM) - The Community Earth System Model
 - [spectralpython/spectral](https://github.com/spectralpython/spectral) - Python module for hyperspectral image processing
