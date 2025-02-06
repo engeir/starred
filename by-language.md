@@ -630,6 +630,7 @@
 
 ## Python 
 
+- [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
 - [Exodus-Privacy/exodus-standalone](https://github.com/Exodus-Privacy/exodus-standalone) - εxodus CLI client for local analysis
 - [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
@@ -860,6 +861,7 @@
 - [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux.
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
+- [taiki-e/install-action](https://github.com/taiki-e/install-action) - GitHub Action for installing development tools (mainly from GitHub Releases).
 - [dalance/amber](https://github.com/dalance/amber) - A code search / replace tool
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [jrmoulton/tmux-sessionizer](https://github.com/jrmoulton/tmux-sessionizer) - Tmux Sessionizer: A tool for opening git repositories as tmux sessions
@@ -987,7 +989,6 @@
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged) - The easiest way to ship python applications.
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
-- [taiki-e/install-action](https://github.com/taiki-e/install-action) - GitHub Action for installing development tools (mainly from GitHub Releases).
 - [ktemkin/gnuradio-for-mac-without-macports](https://github.com/ktemkin/gnuradio-for-mac-without-macports) - GNURadio bundled as an app for Mac OS X (does not require MacPorts)
 - [albertored11/bsptab](https://github.com/albertored11/bsptab) - Suckless' tabbed integration into bspwm
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
