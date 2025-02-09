@@ -212,6 +212,7 @@
 
 ## Go 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [lugenx/lab](https://github.com/lugenx/lab) - Lab helps you experiment with code without friction. Type `lab` with any extension and start coding - it handles files, organization, and cleanup automatically.
 - [suzuki-shunsuke/ghproj](https://github.com/suzuki-shunsuke/ghproj) - Add GitHub Issues and Pull Requests to GitHub Projects
