@@ -275,6 +275,7 @@
 
 ## HTML 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [qwinsi/tex2typst-webapp](https://github.com/qwinsi/tex2typst-webapp) - Translate between LaTeX / TeX math markup and Typst in your browser.
 - [rudokemper/google-maps-places-to-organic-maps](https://github.com/rudokemper/google-maps-places-to-organic-maps) - Generate GPX and KMZ files from your Google Maps saved places to import as bookmarks in Organic Maps (or elsewhere)
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
@@ -640,7 +641,6 @@
 - [make-all/tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
 - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [ForeverWintr/metafunctions](https://github.com/ForeverWintr/metafunctions) - metafunctions is a function composition library for python.
 - [pyvista/pyvista-xarray](https://github.com/pyvista/pyvista-xarray) - xarray DataArray accessors for PyVista
 - [hynek/hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) - Fancy PyPI READMEs with Hatch
