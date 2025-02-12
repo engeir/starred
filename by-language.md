@@ -317,6 +317,7 @@
 
 ## Java 
 
+- [jclehner/rxdroid](https://github.com/jclehner/rxdroid) - A medication reminder for Android
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
