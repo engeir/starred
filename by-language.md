@@ -276,7 +276,6 @@
 ## HTML 
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [qwinsi/tex2typst-webapp](https://github.com/qwinsi/tex2typst-webapp) - Translate between LaTeX / TeX math markup and Typst in your browser.
 - [rudokemper/google-maps-places-to-organic-maps](https://github.com/rudokemper/google-maps-places-to-organic-maps) - Generate GPX and KMZ files from your Google Maps saved places to import as bookmarks in Organic Maps (or elsewhere)
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
@@ -337,6 +336,7 @@
 
 - [typst-community/setup-typst](https://github.com/typst-community/setup-typst) - 📑 Install Typst for use in GitHub Actions
 - [krasch/trans-europe-planner](https://github.com/krasch/trans-europe-planner) - Making it simpler to plan cross-country rail trips in Europe
+- [qwinsi/tex2typst-webapp](https://github.com/qwinsi/tex2typst-webapp) - Translate between LaTeX / TeX math markup and Typst in your browser.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [px-loops/loops-rn](https://github.com/px-loops/loops-rn) - Loops React Native App
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
