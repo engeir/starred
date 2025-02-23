@@ -1623,6 +1623,7 @@
 
 ## others 
 
+- [posit-dev/air](https://github.com/posit-dev/air) - R formatter and language server
 - [jclehner/rxdroid](https://github.com/jclehner/rxdroid) - A medication reminder for Android
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
 - [krasch/trans-europe-planner](https://github.com/krasch/trans-europe-planner) - Making it simpler to plan cross-country rail trips in Europe
@@ -2057,6 +2058,7 @@
 
 ## python 
 
+- [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [hynek/hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) - Fancy PyPI READMEs with Hatch
