@@ -67,6 +67,7 @@
 
 ## C 
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [FelixKratz/SketchyVim](https://github.com/FelixKratz/SketchyVim) - Adds all vim moves and modes to macOS text fields
 - [himdel/hsetroot](https://github.com/himdel/hsetroot) - yet another wallpaper application
 - [gobbledegook/creevey](https://github.com/gobbledegook/creevey) - Phoenix Slides
@@ -318,6 +319,7 @@
 
 ## Java 
 
+- [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
 - [jclehner/rxdroid](https://github.com/jclehner/rxdroid) - A medication reminder for Android
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
