@@ -2581,6 +2581,7 @@
 
 ## vim 
 
+- [rickhowe/wrapwidth](https://github.com/rickhowe/wrapwidth) - Wraps long lines virtually at a specific column
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [FelixKratz/SketchyVim](https://github.com/FelixKratz/SketchyVim) - Adds all vim moves and modes to macOS text fields
 - [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
