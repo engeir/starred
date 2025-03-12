@@ -208,6 +208,7 @@
 
 ## android 
 
+- [jrpie/launcher](https://github.com/jrpie/launcher) - A distraction-free, minimal homescreen for Android.
 - [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
