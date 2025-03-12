@@ -283,7 +283,6 @@
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [4thehalibit/Westbergs-Cookbook](https://github.com/4thehalibit/Westbergs-Cookbook) - Create your own online cookbook with minimal effort
-- [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 - [bafulton/recipes](https://github.com/bafulton/recipes) - Family recipes
 - [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
@@ -400,6 +399,7 @@
 
 ## Kotlin 
 
+- [jrpie/launcher](https://github.com/jrpie/launcher) - A distraction-free, minimal homescreen for Android.
 - [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone) - A handy phone call manager with phonebook, number blocking and multi-SIM support
 - [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
@@ -724,6 +724,7 @@
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [uit-cosmo/cosmoplots](https://github.com/uit-cosmo/cosmoplots) - Definitions for figures and plots using matplotlib
+- [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [callumrollo/cmcrameri](https://github.com/callumrollo/cmcrameri) - Making Fabio Crameri's perceptually uniform colourmaps for geosciences available on PyPI and conda-forge
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
