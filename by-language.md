@@ -420,6 +420,7 @@
 
 ## Lua 
 
+- [OXY2DEV/bars.nvim](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar for Neovim.
 - [acsandmann/AeroSpaceLua](https://github.com/acsandmann/AeroSpaceLua) - a lua client for the aerospace server to reduce latency when interfacing from sketchybar
 - [nfrid/due.nvim](https://github.com/nfrid/due.nvim) - Neovim plugin for displaying due dates
 - [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) - Diagrams as code in Neovim.
