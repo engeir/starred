@@ -399,6 +399,9 @@
 
 ## Kotlin 
 
+- [FossifyOrg/Notes](https://github.com/FossifyOrg/Notes) - A simple text field for adding quick notes without ads.
+- [FossifyOrg/Clock](https://github.com/FossifyOrg/Clock) - Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads
+- [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers.
 - [jrpie/launcher](https://github.com/jrpie/launcher) - A distraction-free, minimal homescreen for Android.
 - [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone) - A handy phone call manager with phonebook, number blocking and multi-SIM support
 - [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
