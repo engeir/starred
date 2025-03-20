@@ -997,6 +997,7 @@
 
 ## Shell 
 
+- [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [hassio-addons/addon-example](https://github.com/hassio-addons/addon-example) - Example - Home Assistant Community Add-ons
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
 - [dylanaraps/pash](https://github.com/dylanaraps/pash) - 🔒 A simple password manager using GPG written in POSIX sh.
