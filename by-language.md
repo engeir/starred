@@ -128,6 +128,7 @@
 
 ## C++ 
 
+- [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [Stremio/stremio-shell](https://github.com/Stremio/stremio-shell) - 🐚 Qt5-based shell for Stremio; compile this to run the desktop app
 - [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next) - RGB Driver for Linux
 - [kernc/logkeys](https://github.com/kernc/logkeys) - :memo: :keyboard: A GNU/Linux keylogger that works!
