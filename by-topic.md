@@ -396,7 +396,7 @@
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [caseyscarborough/keylogger](https://github.com/caseyscarborough/keylogger) - A no-frills keylogger for macOS.
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
@@ -953,7 +953,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
@@ -1690,7 +1690,7 @@
 - [rudokemper/google-maps-places-to-organic-maps](https://github.com/rudokemper/google-maps-places-to-organic-maps) - Generate GPX and KMZ files from your Google Maps saved places to import as bookmarks in Organic Maps (or elsewhere)
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [prefix-dev/shell](https://github.com/prefix-dev/shell) - The ultimate cross-platform, bash-like shell
-- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from Youtube Music.
+- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music
 - [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - 
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 - [px-loops/loops-rn](https://github.com/px-loops/loops-rn) - Loops React Native App
