@@ -182,7 +182,7 @@
 ## Dart 
 
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -448,7 +448,7 @@
 - [garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets) - Snippet support using native neovim snippets
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
 - [tiagovla/scope.nvim](https://github.com/tiagovla/scope.nvim) - Revolutionize Your Neovim Tab Workflow: Introducing Enhanced Tab Scoping!
-- [HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst
+- [hakonharnes/img-clip.nvim](https://github.com/hakonharnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst
 - [hedyhli/markdown-toc.nvim](https://github.com/hedyhli/markdown-toc.nvim) - Generate and auto-update table of contents list for markdown
 - [ThePrimeagen/dev](https://github.com/ThePrimeagen/dev) - my next gen build for starting my system
 - [altermo/iedit.nvim](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
