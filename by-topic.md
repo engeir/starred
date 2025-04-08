@@ -1668,6 +1668,7 @@
 
 ## others 
 
+- [croian/mouseless](https://github.com/croian/mouseless) - Bug tracking and more for Mouseless
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [benlubas/wrapping-paper.nvim](https://github.com/benlubas/wrapping-paper.nvim) - Simple plugin which simulates wrapping a single line at a time using floating windows and virtual text trickery
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
@@ -1799,7 +1800,7 @@
 - [LhKipp/nvim-nu](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language
 - [ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52) - A Neovim plugin to copy text through SSH with OSC52
 - [gabrielpoca/replacer.nvim](https://github.com/gabrielpoca/replacer.nvim) - A powerful refactoring tool for nvim.
-- [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) - A native neovim extension for Codeium
+- [Exafunction/windsurf.nvim](https://github.com/Exafunction/windsurf.nvim) - A native neovim extension for Codeium
 - [Aasim-A/scrollEOF.nvim](https://github.com/Aasim-A/scrollEOF.nvim) - Scroll past the end of file just like scrolloff option
 - [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
 - [fcrozatier/champagne](https://github.com/fcrozatier/champagne) - champagne
