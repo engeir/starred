@@ -1823,7 +1823,7 @@
 - [gabrielpoca/replacer.nvim](https://github.com/gabrielpoca/replacer.nvim) - A powerful refactoring tool for nvim.
 - [Exafunction/windsurf.nvim](https://github.com/Exafunction/windsurf.nvim) - A native neovim extension for Codeium
 - [Aasim-A/scrollEOF.nvim](https://github.com/Aasim-A/scrollEOF.nvim) - Scroll past the end of file just like scrolloff option
-- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
+- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules or suppress formatters. Lookup rule documentation online.
 - [fcrozatier/champagne](https://github.com/fcrozatier/champagne) - champagne
 - [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 - [wthollingsworth/pomodoro.nvim](https://github.com/wthollingsworth/pomodoro.nvim) - A Pomodoro timer for Neovim written in Lua
