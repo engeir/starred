@@ -218,6 +218,7 @@
 
 ## Go 
 
+- [xitonix/trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka
 - [NorskHelsenett/ror](https://github.com/NorskHelsenett/ror) - ROR by NHN, Release Operate Report
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
@@ -324,6 +325,7 @@
 
 ## Java 
 
+- [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [CatimaLoyalty/Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 - [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
 - [jclehner/rxdroid](https://github.com/jclehner/rxdroid) - A medication reminder for Android
@@ -401,6 +403,7 @@
 
 ## Jupyter Notebook 
 
+- [Datseris/Zero2Hero-JuliaWorkshop](https://github.com/Datseris/Zero2Hero-JuliaWorkshop) - Intensive Julia workshop that takes you from zero to hero
 - [CFMTech/jupytext_papermill_post](https://github.com/CFMTech/jupytext_papermill_post) - Material for the Jupytext+Papermill blog post
 - [Hegebf/CMIP5-forcing](https://github.com/Hegebf/CMIP5-forcing) - Code used to compute CMIP5 forcing
 - [GSD6338/XmasTree](https://github.com/GSD6338/XmasTree) - Computational Xmas Tree lights!
