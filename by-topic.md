@@ -1723,7 +1723,7 @@
 - [acsandmann/AeroSpaceLua](https://github.com/acsandmann/AeroSpaceLua) - a lua client for the aerospace server to reduce latency when interfacing from sketchybar
 - [posit-dev/air](https://github.com/posit-dev/air) - R formatter and language server
 - [jclehner/rxdroid](https://github.com/jclehner/rxdroid) - A medication reminder for Android
-- [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
+- [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 - [krasch/trans-europe-planner](https://github.com/krasch/trans-europe-planner) - Making it simpler to plan cross-country rail trips in Europe
 - [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social networks
 - [mrtz-j/typst-thesis-template](https://github.com/mrtz-j/typst-thesis-template) - A Modern UiT Thesis Template
