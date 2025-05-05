@@ -670,7 +670,7 @@
 - [anthonywritescode/typing-puzzles](https://github.com/anthonywritescode/typing-puzzles) - typing puzzles for youtube.com/anthonywritescode
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-- [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
+- [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 - [Exodus-Privacy/exodus-standalone](https://github.com/Exodus-Privacy/exodus-standalone) - εxodus CLI client for local analysis
 - [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social networks
 - [make-all/tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
