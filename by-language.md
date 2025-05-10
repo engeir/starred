@@ -218,6 +218,8 @@
 
 ## Go 
 
+- [NorskHelsenett/goophy](https://github.com/NorskHelsenett/goophy) - 
+- [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [xitonix/trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka
@@ -874,6 +876,7 @@
 
 ## Rust 
 
+- [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - A clipboard manager written in Rust Programming Language.
 - [elkowar/yolk](https://github.com/elkowar/yolk) - Templated dotfile management without template files!
 - [nvim-neorocks/lux](https://github.com/nvim-neorocks/lux) - A luxurious package manager for Lua
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - LSP for Markdown notes taking
