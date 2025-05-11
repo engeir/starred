@@ -1706,6 +1706,8 @@
 
 ## others 
 
+- [BreadOnPenguins/dots](https://github.com/BreadOnPenguins/dots) - slowly populating 🐢
+- [skills/secure-code-game](https://github.com/skills/secure-code-game) - A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.
 - [NorskHelsenett/goophy](https://github.com/NorskHelsenett/goophy) - 
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - A clipboard manager written in Rust Programming Language.
 - [iprodanovbg/homeassistant-desktop](https://github.com/iprodanovbg/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron
