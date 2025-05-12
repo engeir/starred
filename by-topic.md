@@ -1706,6 +1706,7 @@
 
 ## others 
 
+- [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
 - [BreadOnPenguins/dots](https://github.com/BreadOnPenguins/dots) - slowly populating 🐢
 - [skills/secure-code-game](https://github.com/skills/secure-code-game) - A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.
 - [NorskHelsenett/goophy](https://github.com/NorskHelsenett/goophy) - 
@@ -1967,7 +1968,7 @@
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [tjdevries/gruvbuddy.nvim](https://github.com/tjdevries/gruvbuddy.nvim) - Gruvbox colors using https://github.com/tjdevries/colorbuddy.vim
-- [sunknudsen/privacy-guides](https://github.com/sunknudsen/privacy-guides) - Privacy guides reference material (archived)
+- [sunknudsen/guides](https://github.com/sunknudsen/guides) - Explore guides
 - [David-OConnor/pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python
 - [paw-lu/nbpreview](https://github.com/paw-lu/nbpreview) - A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
 - [moyaproject/moya-techblog](https://github.com/moyaproject/moya-techblog) - Blog software for code and Photography
