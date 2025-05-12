@@ -67,6 +67,7 @@
 
 ## C 
 
+- [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [FelixKratz/SketchyVim](https://github.com/FelixKratz/SketchyVim) - Adds all vim moves and modes to macOS text fields
 - [himdel/hsetroot](https://github.com/himdel/hsetroot) - yet another wallpaper application
@@ -666,6 +667,7 @@
 
 ## Python 
 
+- [BreadOnPenguins/dots](https://github.com/BreadOnPenguins/dots) - slowly populating 🐢
 - [skills/secure-code-game](https://github.com/skills/secure-code-game) - A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -1030,7 +1032,6 @@
 
 ## Shell 
 
-- [BreadOnPenguins/dots](https://github.com/BreadOnPenguins/dots) - slowly populating 🐢
 - [ewanmellor/git-diff-image](https://github.com/ewanmellor/git-diff-image) - An extension to 'git diff' that provides support for diffing images.
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
@@ -1093,7 +1094,7 @@
 - [4lgn/word-lookup](https://github.com/4lgn/word-lookup) - Shell script to lookup the definition of currently selected word and send a dunst notification with the definitions
 - [4lgn/dotfiles](https://github.com/4lgn/dotfiles) - 🔧   .files - different setups separated in branches
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [sunknudsen/privacy-guides](https://github.com/sunknudsen/privacy-guides) - Privacy guides reference material (archived)
+- [sunknudsen/guides](https://github.com/sunknudsen/guides) - Explore guides
 - [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
 - [jbirnick/polybar-timer](https://github.com/jbirnick/polybar-timer) - A simple & customizable timer for your bar.
 - [Naheel-Azawy/stpv](https://github.com/Naheel-Azawy/stpv) - Simple Terminal PreViewer
