@@ -483,7 +483,7 @@
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~27,000 clones by ~17,000 unique cloners as of late Nov '24, and averaging ~60 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~32,000 clones by ~21,000 unique cloners as of May '25, and averaging ~60-70 Homebrew installs monthly since June 2023
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
@@ -2527,7 +2527,7 @@
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [davidosomething/dotfiles](https://github.com/davidosomething/dotfiles) - mac OS, Arch Linux, and Debian/Ubuntu + Neovim
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~27,000 clones by ~17,000 unique cloners as of late Nov '24, and averaging ~60 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~32,000 clones by ~21,000 unique cloners as of May '25, and averaging ~60-70 Homebrew installs monthly since June 2023
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
