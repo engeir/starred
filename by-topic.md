@@ -1346,7 +1346,7 @@
 - [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from your neovim terminal
 - [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) - A treesitter supported autopairing plugin with extensions, and much more
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break your bad habits
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [ziontee113/syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) - A plugin for Neovim that helps you surf through your document and move elements around using the nvim-treesitter API.
 - [jghauser/papis.nvim](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor
@@ -1556,7 +1556,7 @@
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) - A treesitter supported autopairing plugin with extensions, and much more
 - [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break your bad habits
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [tamton-aquib/zone.nvim](https://github.com/tamton-aquib/zone.nvim) - Screensaver plugin for neovim.
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
@@ -2735,7 +2735,7 @@
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from your neovim terminal
 - [ckardaris/ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim
 - [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod
-- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break your bad habits
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [bullets-vim/bullets.vim](https://github.com/bullets-vim/bullets.vim) - 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
