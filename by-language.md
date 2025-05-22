@@ -220,6 +220,7 @@
 
 ## Go 
 
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [Andr0id88/git-randomizer](https://github.com/Andr0id88/git-randomizer) - Git commit and branch randomizer
 - [NorskHelsenett/goophy](https://github.com/NorskHelsenett/goophy) - 
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
