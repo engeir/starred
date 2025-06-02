@@ -912,6 +912,7 @@
 
 ## go 
 
+- [yuucu/todotui](https://github.com/yuucu/todotui) - ⌨️ A Vim-like TUI that honors the simplicity of todo.txt 📝
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -1732,6 +1733,7 @@
 
 ## others 
 
+- [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -2750,6 +2752,7 @@
 
 ## vim 
 
+- [yuucu/todotui](https://github.com/yuucu/todotui) - ⌨️ A Vim-like TUI that honors the simplicity of todo.txt 📝
 - [usagi-flow/evil-helix](https://github.com/usagi-flow/evil-helix) - Bringing the Helix editor to the evil side
 - [rickhowe/wrapwidth](https://github.com/rickhowe/wrapwidth) - Wraps long lines virtually at a specific column
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
