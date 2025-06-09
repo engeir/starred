@@ -203,6 +203,7 @@
 
 ## ai 
 
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
@@ -1337,6 +1338,7 @@
 
 ## llm 
 
+- [mozanunal/sllm.nvim](https://github.com/mozanunal/sllm.nvim) - Simple LLM interaction for Neovim. Ask questions, manage context (files, URLs, selections, diagnostics, command output), and chat with your favorite Large Language Models without leaving your editor. 
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
@@ -1521,6 +1523,7 @@
 
 ## neovim 
 
+- [mozanunal/sllm.nvim](https://github.com/mozanunal/sllm.nvim) - Simple LLM interaction for Neovim. Ask questions, manage context (files, URLs, selections, diagnostics, command output), and chat with your favorite Large Language Models without leaving your editor. 
 - [usagi-flow/evil-helix](https://github.com/usagi-flow/evil-helix) - Bringing the Helix editor to the evil side
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - LSP for Markdown notes taking
@@ -1715,6 +1718,7 @@
 
 ## openai 
 
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
@@ -1733,6 +1737,7 @@
 
 ## others 
 
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [treyhunner/better-dedent](https://github.com/treyhunner/better-dedent) - textwrap.dedent with t-string support
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
