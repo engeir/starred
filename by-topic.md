@@ -462,7 +462,7 @@
 
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [usagi-flow/evil-helix](https://github.com/usagi-flow/evil-helix) - Bringing the Helix editor to the evil side
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [xitonix/trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -917,7 +917,7 @@
 - [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) - A Go deep-completion source for unimported packages, for use with nvim-cmp/blink.cmp
 - [yuucu/todotui](https://github.com/yuucu/todotui) - ⌨️ A Vim-like TUI that honors the simplicity of todo.txt 📝
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -1183,7 +1183,7 @@
 
 ## json 
 
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [onmax/issue-form-parser](https://github.com/onmax/issue-form-parser) - Convert GitHub Form Issues into JSON objects with this simple Action.
 - [b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) - 🛍 JSON schemas for Neovim
@@ -1924,7 +1924,7 @@
 - [stepbasin/books](https://github.com/stepbasin/books) - 
 - [axismaps/colorbrewer](https://github.com/axismaps/colorbrewer) - 
 - [jiffyclub/palettable](https://github.com/jiffyclub/palettable) - Color palettes for Python
-- [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX
+- [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
 - [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
