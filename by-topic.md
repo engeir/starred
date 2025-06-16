@@ -151,6 +151,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [programming](#programming)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -1117,7 +1118,7 @@
 ## image-processing 
 
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it o
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -1938,7 +1939,6 @@
 - [AckslD/muren.nvim](https://github.com/AckslD/muren.nvim) - Multiple replacements in neovim
 - [hadronized/mind](https://github.com/hadronized/mind) - The power of trees at your fingertips
 - [MichaelAquilina/zshrc](https://github.com/MichaelAquilina/zshrc) - Personal zshrc configuration file
-- [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [MichaelAquilina/zsh-auto-notify](https://github.com/MichaelAquilina/zsh-auto-notify) - ⏰ ZSH plugin that automatically sends out a notification when a long running task has completed.
 - [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) - Produce redistributable builds of Python
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
@@ -2189,6 +2189,22 @@
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
+
+## productivity 
+
+- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+- [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
+- [JaDogg/pydoro](https://github.com/JaDogg/pydoro) - 🍅 pydoro - Terminal Pomodoro Timer
+- [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 
 ## programming 
 
