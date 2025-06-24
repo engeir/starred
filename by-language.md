@@ -679,6 +679,7 @@
 
 ## Python 
 
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [nedbat/cog](https://github.com/nedbat/cog) - Small bits of Python computation for static files
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [treyhunner/better-dedent](https://github.com/treyhunner/better-dedent) - textwrap.dedent with t-string support
