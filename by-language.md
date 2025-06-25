@@ -451,7 +451,7 @@
 
 ## Lua 
 
-- [mozanunal/sllm.nvim](https://github.com/mozanunal/sllm.nvim) - Simple LLM interaction for Neovim. Ask questions, manage context (files, URLs, selections, diagnostics, command output), and chat with your favorite Large Language Models without leaving your editor. 
+- [mozanunal/sllm.nvim](https://github.com/mozanunal/sllm.nvim) - Integrate ChatGPT-style LLMs into Neovim: ask questions, keep multi-file context, pull diagnostics / command output, and chat without leaving your editor. Highly configurable, async, lua-only plugin.
 - [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) - A Go deep-completion source for unimported packages, for use with nvim-cmp/blink.cmp
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
 - [benlubas/wrapping-paper.nvim](https://github.com/benlubas/wrapping-paper.nvim) - Simple plugin which simulates wrapping a single line at a time using floating windows and virtual text trickery
@@ -927,7 +927,7 @@
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [Myriad-Dreamin/shiroa](https://github.com/Myriad-Dreamin/shiroa) - shiroa is a simple tool for creating modern online books in pure typst.
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
-- [Enter-tainer/typstyle](https://github.com/Enter-tainer/typstyle) - Beautiful and reliable typst code formatter
+- [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) - Beautiful and reliable typst code formatter
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
@@ -1052,6 +1052,7 @@
 
 ## Shell 
 
+- [rogerwesterbo/createlocalk8s](https://github.com/rogerwesterbo/createlocalk8s) - Create a kubernetes cluster locally
 - [ewanmellor/git-diff-image](https://github.com/ewanmellor/git-diff-image) - An extension to 'git diff' that provides support for diffing images.
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
