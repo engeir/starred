@@ -680,6 +680,7 @@
 
 ## Python 
 
+- [Twofyw/hi](https://github.com/Twofyw/hi) - 
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [nedbat/cog](https://github.com/nedbat/cog) - Small bits of Python computation for static files
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
