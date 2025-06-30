@@ -1814,7 +1814,6 @@
 - [bast/teaching-setup](https://github.com/bast/teaching-setup) - Containerized teaching setup which creates an isolated configurable shell.
 - [ngerakines/apevents](https://github.com/ngerakines/apevents) - A federated event management system
 - [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
-- [vidzy-social/vidzy](https://github.com/vidzy-social/vidzy) - Vidzy - The federated alternative to TikTok.
 - [budlabs/youtube](https://github.com/budlabs/youtube) - Contains files related to the budlabs youtube channel
 - [volcano-climate/vci](https://github.com/volcano-climate/vci) - VCI web tool
 - [max397574/care.nvim](https://github.com/max397574/care.nvim) - care.nvim - Completion And Recommendation Engine for Neovim - WIP
