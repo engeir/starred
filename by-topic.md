@@ -574,7 +574,7 @@
 ## compiler 
 
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
-- [typst-community/setup-typst](https://github.com/typst-community/setup-typst) - 📑 Install Typst for use in GitHub Actions
+- [typst-community/setup-typst](https://github.com/typst-community/setup-typst) - 📑 Install Typst and add it to the PATH with package management
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
