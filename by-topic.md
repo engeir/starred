@@ -243,7 +243,7 @@
 - [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
 - [FossifyOrg/Contacts](https://github.com/FossifyOrg/Contacts) - Easy and quick contact management with no ads, handles groups and favorites too.
 - [maforn/TimedShutdownAndroid](https://github.com/maforn/TimedShutdownAndroid) - An app for android that will automatically shutdown your phone after a timer without needing root access. This app uses the accessiblity permission to emulate the power off gestures.
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
@@ -1151,7 +1151,7 @@
 ## java 
 
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [build-server-protocol/build-server-protocol](https://github.com/build-server-protocol/build-server-protocol) - Protocol for IDEs and build tools to communicate about compile, run, test, debug and more.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
@@ -1222,7 +1222,7 @@
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
 - [FossifyOrg/Contacts](https://github.com/FossifyOrg/Contacts) - Easy and quick contact management with no ads, handles groups and favorites too.
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [theothernt/AerialViews](https://github.com/theothernt/AerialViews) - A screensaver for Android TV devices including Google TV, Nvidia Shield, and Fire TV. Inspired by Apple TV's video screensaver.
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
@@ -1808,7 +1808,7 @@
 - [g5becks/Cartograph](https://github.com/g5becks/Cartograph) - Cartograph cf font
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
 - [neo451/feed.nvim](https://github.com/neo451/feed.nvim) - Neovim feed reader, rss, atom and jsonfeed, all in lua
-- [rudokemper/google-maps-places-to-organic-maps](https://github.com/rudokemper/google-maps-places-to-organic-maps) - Generate GPX and KMZ files from your Google Maps saved places to import as bookmarks in Organic Maps (or elsewhere)
+- [rudokemper/google-maps-places-to-comaps](https://github.com/rudokemper/google-maps-places-to-comaps) - Generate GPX and KMZ files from your Google Maps saved places to import as bookmarks in CoMaps (or elsewhere)
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [prefix-dev/shell](https://github.com/prefix-dev/shell) - The ultimate cross-platform, bash-like shell
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual and multiplatform extensible offline player
