@@ -1751,6 +1751,7 @@
 
 ## others 
 
+- [DarthSim/overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux
 - [Twofyw/hi](https://github.com/Twofyw/hi) - A fast terminal-native AI assistant that sees what you see.
 - [rogerwesterbo/createlocalk8s](https://github.com/rogerwesterbo/createlocalk8s) - Create a kubernetes cluster locally
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
