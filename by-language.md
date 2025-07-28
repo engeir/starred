@@ -898,6 +898,7 @@
 
 ## Rust 
 
+- [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [usagi-flow/evil-helix](https://github.com/usagi-flow/evil-helix) - Bringing the Helix editor to the evil side
