@@ -44,6 +44,7 @@
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [data](#data)
+- [data-engineering](#data-engineering)
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
 - [database](#database)
@@ -355,6 +356,7 @@
 
 ## bash 
 
+- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -637,6 +639,13 @@
 
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [JGCRI/CEDS](https://github.com/JGCRI/CEDS) - Community Emissions Data System (CEDS)
+
+## data-engineering 
+
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 
 ## data-science 
 
@@ -1845,7 +1854,7 @@
 - [volcano-climate/vci](https://github.com/volcano-climate/vci) - VCI web tool
 - [max397574/care.nvim](https://github.com/max397574/care.nvim) - care.nvim - Completion And Recommendation Engine for Neovim - WIP
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [ClaperCo/Claper](https://github.com/ClaperCo/Claper) - The ultimate tool to interact with your audience
+- [ClaperCo/Claper](https://github.com/ClaperCo/Claper) - 👋 The ultimate tool to interact with your audience
 - [jvierine/signal_processing_course](https://github.com/jvierine/signal_processing_course) - Lecture notes for FYS-2006 Signal Processing
 - [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) - Beautiful and reliable typst code formatter
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
