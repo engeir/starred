@@ -204,6 +204,7 @@
 - [windows](#windows)
 - [xcode](#xcode)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -449,7 +450,7 @@
 
 ## chatgpt 
 
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot
@@ -1310,7 +1311,7 @@
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
-- [jorisschellekens/borb](https://github.com/jorisschellekens/borb) - borb is a library for reading, creating and manipulating PDF files in python.
+- [borb-pdf/borb](https://github.com/borb-pdf/borb) - borb is a library for reading, creating and manipulating PDF files in python.
 
 ## linux 
 
@@ -1373,7 +1374,7 @@
 
 ## llm 
 
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
@@ -1564,7 +1565,7 @@
 - [huggingface/llm.nvim](https://github.com/huggingface/llm.nvim) - LLM powered development for Neovim
 - [mozanunal/sllm.nvim](https://github.com/mozanunal/sllm.nvim) - Integrate ChatGPT-style LLMs into Neovim: ask questions, keep multi-file context, pull diagnostics / command output, and chat without leaving your editor. Highly configurable, async, lua-only plugin.
 - [usagi-flow/evil-helix](https://github.com/usagi-flow/evil-helix) - Bringing the Helix editor to the evil side
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - LSP for Markdown notes taking
 - [2KAbhishek/tdo.nvim](https://github.com/2KAbhishek/tdo.nvim) - Fast & Simple Notes in Neovim 📃🚀
 - [mfussenegger/nvim-ansible](https://github.com/mfussenegger/nvim-ansible) - Small neovim plugin to make working with Ansible playbooks or roles more convenient
@@ -1761,7 +1762,7 @@
 
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [mozanunal/sllm.nvim](https://github.com/mozanunal/sllm.nvim) - Integrate ChatGPT-style LLMs into Neovim: ask questions, keep multi-file context, pull diagnostics / command output, and chat without leaving your editor. Highly configurable, async, lua-only plugin.
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
@@ -1913,7 +1914,6 @@
 - [thiagonds65/nbib2bib](https://github.com/thiagonds65/nbib2bib) - nbib to bib converter
 - [walles/riff](https://github.com/walles/riff) - A diff filter highlighting which line parts have changed
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
-- [hlissner/zsh-autopair](https://github.com/hlissner/zsh-autopair) - Auto-close and delete matching delimiters in zsh
 - [0xabu/pdfannots](https://github.com/0xabu/pdfannots) - Extracts and formats text annotations from a PDF file
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
@@ -1924,7 +1924,6 @@
 - [Rolv-Apneseth/tfm.nvim](https://github.com/Rolv-Apneseth/tfm.nvim) - Neovim plugin for terminal file manager integration
 - [nvimdev/epo.nvim](https://github.com/nvimdev/epo.nvim) - A blazing fast and minimal neovim autocompletion
 - [omerxx/tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with preview, fuzzy finding, and MORE
-- [z-shell/F-Sy-H](https://github.com/z-shell/F-Sy-H) - ⚙️ Feature-rich Syntax Highlighting for Zsh
 - [ericmurphyxyz/rofi-wifi-menu](https://github.com/ericmurphyxyz/rofi-wifi-menu) - A bash script using nmcli and rofi to make a wifi menu for your favorite window manager
 - [jsh9/pydoclint](https://github.com/jsh9/pydoclint) - A Python docstring linter that checks arguments, returns, yields, and raises sections
 - [rajgoel/reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins) - Plugins for reveal.js
@@ -2095,7 +2094,6 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-- [vifon/zsh-image-extension](https://github.com/vifon/zsh-image-extension) - Image viewing capabilities for zsh
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [r00tdaemon/xwinwrap](https://github.com/r00tdaemon/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
 - [tymscar/Unsplash-Random-Wallpaper-Setter](https://github.com/tymscar/Unsplash-Random-Wallpaper-Setter) - YouTube Video Presenting Unsplash Random Wallpaper Setter
@@ -2359,7 +2357,7 @@
 - [lmfit/lmfit-py](https://github.com/lmfit/lmfit-py) - Non-Linear Least Squares Minimization, with flexible Parameter settings, based on scipy.optimize, and with many additional classes and methods for curve fitting.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [DCsunset/pandoc-include](https://github.com/DCsunset/pandoc-include) - A pandoc filter to allow file and header inclusion
-- [jorisschellekens/borb](https://github.com/jorisschellekens/borb) - borb is a library for reading, creating and manipulating PDF files in python.
+- [borb-pdf/borb](https://github.com/borb-pdf/borb) - borb is a library for reading, creating and manipulating PDF files in python.
 - [MattMoony/figaro](https://github.com/MattMoony/figaro) - Real-time voice-changer for voice-chat, etc. Will support many different voice-filters and features in the future. 🎵
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ nanosecond profiler, logger, tests enabler
@@ -2404,7 +2402,7 @@
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [jorisschellekens/borb](https://github.com/jorisschellekens/borb) - borb is a library for reading, creating and manipulating PDF files in python.
+- [borb-pdf/borb](https://github.com/borb-pdf/borb) - borb is a library for reading, creating and manipulating PDF files in python.
 - [wemake-services/wemake-python-package](https://github.com/wemake-services/wemake-python-package) - Bleeding edge cookiecutter template to create new python packages
 
 ## pytorch 
@@ -2937,6 +2935,34 @@
 ## zig 
 
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## zsh 
+
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
+- [davidosomething/dotfiles](https://github.com/davidosomething/dotfiles) - mac OS, Arch Linux, and Debian/Ubuntu + Neovim
+- [hlissner/zsh-autopair](https://github.com/hlissner/zsh-autopair) - Auto-close and delete matching delimiters in zsh
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~32,000 clones by ~21,000 unique cloners as of May '25, and averaging ~60-70 Homebrew installs monthly since June 2023
+- [z-shell/F-Sy-H](https://github.com/z-shell/F-Sy-H) - ⚙️ Feature-rich Syntax Highlighting for Zsh
+- [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My dotfiles including Neovim Lua config, ZSH with zinit plugin manager & powerlevel10k prompt
+- [MichaelAquilina/zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs (including pipenv and poetry) as you move between directories
+- [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
+- [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
+- [umgbhalla/dotstow](https://github.com/umgbhalla/dotstow) - dotfiles managed with stow
+- [4lgn/dotfiles](https://github.com/4lgn/dotfiles) - 🔧   .files - different setups separated in branches
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [SwiftyChicken/dotfiles](https://github.com/SwiftyChicken/dotfiles) - My dotfiles
+- [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
+- [vifon/zsh-image-extension](https://github.com/vifon/zsh-image-extension) - Image viewing capabilities for zsh
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
+- [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
+- [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
+- [makccr/dot](https://github.com/makccr/dot) - My dotfiles / default location for ricing configs.
 
 
 ## License
