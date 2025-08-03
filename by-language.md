@@ -450,6 +450,8 @@
 
 ## Lua 
 
+- [chrisgrieser/nvim-justice](https://github.com/chrisgrieser/nvim-justice) - Just an integration of `just` in nvim.
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
 - [richardhapb/pytest.nvim](https://github.com/richardhapb/pytest.nvim) - Neovim plugin for Python testing
 - [radleylewis/nvim-lite](https://github.com/radleylewis/nvim-lite) - A suckless NeoVim Config
 - [huggingface/llm.nvim](https://github.com/huggingface/llm.nvim) - LLM powered development for Neovim
