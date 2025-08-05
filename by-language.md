@@ -896,7 +896,7 @@
 - [fontist/fontist](https://github.com/fontist/fontist) - Install openly-licensed fonts on Windows, Linux and Mac!
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
-- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 
 ## Rust 
 
