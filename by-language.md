@@ -257,7 +257,7 @@
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [thought-machine/please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A TUI bluetooth manager for Linux.
@@ -683,6 +683,7 @@
 
 ## Python 
 
+- [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [Twofyw/hi](https://github.com/Twofyw/hi) - A fast terminal-native AI assistant that sees what you see.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [nedbat/cog](https://github.com/nedbat/cog) - Small bits of Python computation for static files
@@ -1059,6 +1060,7 @@
 
 ## Shell 
 
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [rogerwesterbo/createlocalk8s](https://github.com/rogerwesterbo/createlocalk8s) - Create a kubernetes cluster locally
 - [ewanmellor/git-diff-image](https://github.com/ewanmellor/git-diff-image) - An extension to 'git diff' that provides support for diffing images.
