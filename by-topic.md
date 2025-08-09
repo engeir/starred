@@ -639,7 +639,7 @@
 ## data 
 
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [JGCRI/CEDS](https://github.com/JGCRI/CEDS) - Community Emissions Data System (CEDS)
+- [JGCRI/CEDS](https://github.com/JGCRI/CEDS) - Community Earth atmospheric Data System (CEDS)
 
 ## data-engineering 
 
@@ -1782,6 +1782,7 @@
 
 ## others 
 
+- [IniasP/rnnoise-cli](https://github.com/IniasP/rnnoise-cli) - A CLI for the noise suppression LADSPA plugin at https://github.com/werman/noise-suppression-for-voice
 - [chrisgrieser/nvim-justice](https://github.com/chrisgrieser/nvim-justice) - Just an integration of `just` in nvim.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
