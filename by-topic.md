@@ -1562,6 +1562,7 @@
 
 ## neovim 
 
+- [nvim-neorocks/lz.n](https://github.com/nvim-neorocks/lz.n) - 🦥 A dead simple lazy-loading Lua library for Neovim plugins.
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
 - [radleylewis/nvim-lite](https://github.com/radleylewis/nvim-lite) - A suckless NeoVim Config
 - [huggingface/llm.nvim](https://github.com/huggingface/llm.nvim) - LLM powered development for Neovim
