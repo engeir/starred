@@ -453,6 +453,7 @@
 
 - [nvim-neorocks/lz.n](https://github.com/nvim-neorocks/lz.n) - 🦥 A dead simple lazy-loading Lua library for Neovim plugins.
 - [chrisgrieser/nvim-justice](https://github.com/chrisgrieser/nvim-justice) - Just an integration of `just` in nvim.
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
 - [richardhapb/pytest.nvim](https://github.com/richardhapb/pytest.nvim) - Neovim plugin for Python testing
 - [radleylewis/nvim-lite](https://github.com/radleylewis/nvim-lite) - A suckless NeoVim Config
 - [huggingface/llm.nvim](https://github.com/huggingface/llm.nvim) - LLM powered development for Neovim
@@ -517,7 +518,7 @@
 - [gabrielpoca/replacer.nvim](https://github.com/gabrielpoca/replacer.nvim) - A powerful refactoring tool for nvim.
 - [Exafunction/windsurf.nvim](https://github.com/Exafunction/windsurf.nvim) - A native neovim extension for Codeium
 - [Aasim-A/scrollEOF.nvim](https://github.com/Aasim-A/scrollEOF.nvim) - Scroll past the end of file just like scrolloff option
-- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules or suppress formatters. Lookup rule documentation online.
+- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - All-around helper for dealing with errors and diagnostics: Add inline-comments to ignore rules or suppress formatters. Lookup rule documentation online.
 - [kiyoon/telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim) - Insert file path on the current buffer using Telescope.nvim
 - [AdamWagner/stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 - [wthollingsworth/pomodoro.nvim](https://github.com/wthollingsworth/pomodoro.nvim) - A Pomodoro timer for Neovim written in Lua
@@ -903,7 +904,7 @@
 
 ## Rust 
 
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
