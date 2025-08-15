@@ -67,6 +67,8 @@
 
 ## C 
 
+- [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
+- [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) - A 33-key layout that works with all keyboards.
 - [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [FelixKratz/SketchyVim](https://github.com/FelixKratz/SketchyVim) - Adds all vim moves and modes to macOS text fields
@@ -685,6 +687,7 @@
 
 ## Python 
 
+- [s-n-g/i3-keylist](https://github.com/s-n-g/i3-keylist) - Display i3 Window Manager Key List
 - [IniasP/rnnoise-cli](https://github.com/IniasP/rnnoise-cli) - A CLI for the noise suppression LADSPA plugin at https://github.com/werman/noise-suppression-for-voice
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [Twofyw/hi](https://github.com/Twofyw/hi) - A fast terminal-native AI assistant that sees what you see.
