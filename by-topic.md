@@ -1787,6 +1787,9 @@
 
 ## others 
 
+- [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
+- [s-n-g/i3-keylist](https://github.com/s-n-g/i3-keylist) - Display i3 Window Manager Key List
+- [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) - A 33-key layout that works with all keyboards.
 - [IniasP/rnnoise-cli](https://github.com/IniasP/rnnoise-cli) - A CLI for the noise suppression LADSPA plugin at https://github.com/werman/noise-suppression-for-voice
 - [chrisgrieser/nvim-justice](https://github.com/chrisgrieser/nvim-justice) - Just an integration of `just` in nvim.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
