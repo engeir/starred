@@ -59,6 +59,7 @@
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
 - [Vue](#vue)
+- [YAML](#yaml)
 - [Zig](#zig)
 
 ## Astro 
@@ -1013,7 +1014,6 @@
 - [pika-backup/pika-backup](https://github.com/pika-backup/pika-backup) - Pika Backup – 🪞 Mirror only 🪞 – See https://gitlab.gnome.org/World/pika-backup for development
 - [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update) - A cargo subcommand for checking and applying updates to installed executables
 - [orhun/halp](https://github.com/orhun/halp) - A CLI tool to get help with CLI tools 🐙
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [njsmith/posy](https://github.com/njsmith/posy) - 
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -1288,6 +1288,10 @@
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+
+## YAML 
+
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 ## Zig 
 
