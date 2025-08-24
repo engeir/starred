@@ -1794,6 +1794,7 @@
 
 ## others 
 
+- [thesofproject/sof-bin](https://github.com/thesofproject/sof-bin) - Firmware and topology binaries
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [s-n-g/i3-keylist](https://github.com/s-n-g/i3-keylist) - Display i3 Window Manager Key List
 - [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) - A 33-key layout that works with all keyboards.
