@@ -908,6 +908,7 @@
 
 ## Rust 
 
+- [cooklang/cookcli](https://github.com/cooklang/cookcli) - Command line program which provides a suite of tools to create shopping lists and maintain recipes.
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
