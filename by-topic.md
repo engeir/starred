@@ -1416,7 +1416,7 @@
 - [miversen33/netman.nvim](https://github.com/miversen33/netman.nvim) - Neovim (Lua powered) Network Resource Manager
 - [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Color picker and highlighter plugin for Neovim.
 - [rawnly/gist.nvim](https://github.com/rawnly/gist.nvim) - Neovim plugin that allows you to create a Github Gist from the current file
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [asiryk/auto-hlsearch.nvim](https://github.com/asiryk/auto-hlsearch.nvim) - Automatically manage hlsearch setting
@@ -1654,7 +1654,7 @@
 - [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim) - Interactive Repl Over Neovim
 - [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim) - 🔎 Neovim plugin for viewing all the URLs in a buffer
 - [rawnly/gist.nvim](https://github.com/rawnly/gist.nvim) - Neovim plugin that allows you to create a Github Gist from the current file
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [asiryk/auto-hlsearch.nvim](https://github.com/asiryk/auto-hlsearch.nvim) - Automatically manage hlsearch setting
@@ -1796,7 +1796,7 @@
 ## others 
 
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
-- [cooklang/cookcli](https://github.com/cooklang/cookcli) - Command line program which provides a suite of tools to create shopping lists and maintain recipes.
+- [cooklang/cookcli](https://github.com/cooklang/cookcli) - CLI + embedded web-server to work with Cooklang recipes
 - [thesofproject/sof-bin](https://github.com/thesofproject/sof-bin) - Firmware and topology binaries
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [s-n-g/i3-keylist](https://github.com/s-n-g/i3-keylist) - Display i3 Window Manager Key List
