@@ -1399,6 +1399,7 @@
 
 ## lua 
 
+- [mezdelex/unpack](https://github.com/mezdelex/unpack) - Small layer on top of vim.pack API to allow single file plugin configurations
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
 - [radleylewis/nvim-lite](https://github.com/radleylewis/nvim-lite) - A suckless NeoVim Config
@@ -1582,6 +1583,7 @@
 
 ## neovim 
 
+- [mezdelex/unpack](https://github.com/mezdelex/unpack) - Small layer on top of vim.pack API to allow single file plugin configurations
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim
 - [nvim-neorocks/lz.n](https://github.com/nvim-neorocks/lz.n) - 🦥 A dead simple lazy-loading Lua library for Neovim plugins.
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
