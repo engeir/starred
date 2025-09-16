@@ -1843,7 +1843,7 @@
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
-- [BreadOnPenguins/dots](https://github.com/BreadOnPenguins/dots) - slowly populating 🐢
+- [BreadOnPenguins/dots](https://github.com/BreadOnPenguins/dots) - configs and things
 - [skills/secure-code-game](https://github.com/skills/secure-code-game) - A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.
 - [NorskHelsenett/goophy](https://github.com/NorskHelsenett/goophy) - 
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - A clipboard manager written in Rust Programming Language.
