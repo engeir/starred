@@ -1075,7 +1075,6 @@
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [tamton-aquib/zone.nvim](https://github.com/tamton-aquib/zone.nvim) - Screensaver plugin for neovim.
 - [linuxserver/docker-grocy](https://github.com/linuxserver/docker-grocy) - A container for grocy - the ERP application for your kitchen https://grocy.info
-- [GourmandRecipeManager/gourmand](https://github.com/GourmandRecipeManager/gourmand) - A recipe manager for desktop with the possibilities to import, organize, and tweak recipes
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
@@ -2015,6 +2014,7 @@
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [munificent/vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language
 - [salsify/action-detect-and-tag-new-version](https://github.com/salsify/action-detect-and-tag-new-version) - A GitHub action to detect and tag new versions of a repo based on changes to its contents
+- [GourmandRecipeManager/gourmand](https://github.com/GourmandRecipeManager/gourmand) - A recipe manager for desktop with the possibilities to import, organize, and tweak recipes
 - [thinkle/gourmet](https://github.com/thinkle/gourmet) - Gourmet Recipe Manager
 - [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
