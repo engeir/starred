@@ -1037,6 +1037,7 @@
 
 ## hacktoberfest 
 
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [PowerDNS/pdns-ansible](https://github.com/PowerDNS/pdns-ansible) - PowerDNS Authoritative Ansible role
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
@@ -1781,6 +1782,7 @@
 
 ## open-source 
 
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -1821,6 +1823,8 @@
 
 ## others 
 
+- [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
+- [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
 - [mitsuhiko/lucumr](https://github.com/mitsuhiko/lucumr) - My personal website
 - [furst/cooksync-obsidian](https://github.com/furst/cooksync-obsidian) - 
 - [Piotr1215/beam.nvim](https://github.com/Piotr1215/beam.nvim) - Beam nvim text operations on text objects anywhere in your file.
@@ -2527,6 +2531,7 @@
 
 ## rest-api 
 
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 
