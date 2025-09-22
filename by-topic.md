@@ -161,6 +161,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -173,6 +174,7 @@
 - [react-native](#react-native)
 - [reactjs](#reactjs)
 - [rest-api](#rest-api)
+- [robotics](#robotics)
 - [ruby](#ruby)
 - [rust](#rust)
 - [scala](#scala)
@@ -879,6 +881,7 @@
 
 ## frontend 
 
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 
@@ -2054,7 +2057,6 @@
 - [pika-backup/pika-backup](https://github.com/pika-backup/pika-backup) - Pika Backup – 🪞 Mirror only 🪞 – See https://gitlab.gnome.org/World/pika-backup for development
 - [terrastruct/d2-vim](https://github.com/terrastruct/d2-vim) - The Vim plugin for D2 files
 - [linux-cultist/venv-selector.nvim](https://github.com/linux-cultist/venv-selector.nvim) - Allows selection of python virtual environment from within neovim
-- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [uit-cosmo/cosmoplots](https://github.com/uit-cosmo/cosmoplots) - Definitions for figures and plots using matplotlib
 - [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Move by subwords and skip insignificant punctuation.
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
@@ -2323,6 +2325,14 @@
 
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 
+## programming-language 
+
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
+- [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
+
 ## publishing 
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -2334,6 +2344,7 @@
 
 ## python 
 
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Zuban Language Server Issue Tracker
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
@@ -2535,6 +2546,10 @@
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+
+## robotics 
+
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
 ## ruby 
 
@@ -2987,10 +3002,12 @@
 
 ## webapp 
 
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [qwinsi/tex2typst-webapp](https://github.com/qwinsi/tex2typst-webapp) - Translate between LaTeX / TeX math markup and Typst in your browser.
 
 ## website 
 
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [denysvitali/thebestmotherfuckingwebsite](https://github.com/denysvitali/thebestmotherfuckingwebsite) - The title says it all.
 
