@@ -378,7 +378,6 @@
 - [krasch/trans-europe-planner](https://github.com/krasch/trans-europe-planner) - Making it simpler to plan cross-country rail trips in Europe
 - [qwinsi/tex2typst-webapp](https://github.com/qwinsi/tex2typst-webapp) - Translate between LaTeX / TeX math markup and Typst in your browser.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
-- [px-loops/loops-rn](https://github.com/px-loops/loops-rn) - Loops React Native App
 - [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
 - [volcano-climate/vci](https://github.com/volcano-climate/vci) - VCI web tool
 - [pixelfed/pixelfed-rn](https://github.com/pixelfed/pixelfed-rn) - Pixelfed mobile app
@@ -646,6 +645,7 @@
 
 ## Others 
 
+- [atblueprints/awesome-atproto](https://github.com/atblueprints/awesome-atproto) - A curated list of awesome AT Protocol resources
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [TechHutTV/homelab](https://github.com/TechHutTV/homelab) - Homelab stacks, templates, and more fun resources!
 - [croian/mouseless](https://github.com/croian/mouseless) - Bug tracking and more for Mouseless
