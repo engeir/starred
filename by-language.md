@@ -1215,6 +1215,7 @@
 
 ## TypeScript 
 
+- [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [furst/cooksync-obsidian](https://github.com/furst/cooksync-obsidian) - 
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [Altinn/altinn-studio](https://github.com/Altinn/altinn-studio) - Next generation open source Altinn platform and applications.
