@@ -311,7 +311,6 @@
 
 - [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [rudokemper/google-maps-places-to-comaps](https://github.com/rudokemper/google-maps-places-to-comaps) - Generate GPX and KMZ files from your Google Maps saved places to import as bookmarks in CoMaps (or elsewhere)
-- [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - The open source repository for Electricity Maps App and data parsers that enables a real-time visualisation of the CO2 emissions of electricity consumption
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
 - [jlucaspains/sharp-cooking-web](https://github.com/jlucaspains/sharp-cooking-web) - Web app for Sharp Cooking
@@ -733,6 +732,7 @@
 - [akaihola/darker](https://github.com/akaihola/darker) - Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [konstin/sudoku-in-python-packaging](https://github.com/konstin/sudoku-in-python-packaging) - Sudoku solving in python packaging
+- [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - The open source repository for Electricity Maps App and data parsers that enables a real-time visualisation of the CO2 emissions of electricity consumption
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
