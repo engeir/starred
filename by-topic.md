@@ -372,6 +372,7 @@
 
 ## bash 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
@@ -485,6 +486,7 @@
 
 ## cli 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Tracking and Reporting
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -1849,6 +1851,7 @@
 
 ## others 
 
+- [ImperialCollegeLondon/FLT](https://github.com/ImperialCollegeLondon/FLT) - Ongoing Lean formalisation of the proof of Fermat's Last Theorem
 - [arch7tect/exposeme](https://github.com/arch7tect/exposeme) - Secure HTTP tunneling solution written in Rust that exposes local services to the internet
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
@@ -2365,7 +2368,7 @@
 ## python 
 
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
-- [zubanls/zuban](https://github.com/zubanls/zuban) - Zuban Language Server Issue Tracker
+- [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
@@ -2580,6 +2583,7 @@
 
 ## rust 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
@@ -2736,6 +2740,7 @@
 
 ## shell 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
@@ -2825,6 +2830,7 @@
 
 ## terminal 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
