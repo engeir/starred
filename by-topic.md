@@ -489,6 +489,7 @@
 
 ## cli 
 
+- [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Tracking and Reporting
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -1862,6 +1863,7 @@
 
 ## others 
 
+- [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation.
 - [blopker/codebook](https://github.com/blopker/codebook) - Spell Checker for Code
 - [ImperialCollegeLondon/FLT](https://github.com/ImperialCollegeLondon/FLT) - Ongoing Lean formalisation of the proof of Fermat's Last Theorem
 - [arch7tect/exposeme](https://github.com/arch7tect/exposeme) - Secure HTTP tunneling solution written in Rust that exposes local services to the internet
@@ -1906,7 +1908,6 @@
 - [TechHutTV/homelab](https://github.com/TechHutTV/homelab) - Homelab stacks, templates, and more fun resources!
 - [thunderbird/appointment](https://github.com/thunderbird/appointment) - Invite others to grab times on your calendar. Choose a date. Make appointments as easy as it gets.
 - [croian/mouseless](https://github.com/croian/mouseless) - Bug tracking and more for Mouseless
-- [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [benlubas/wrapping-paper.nvim](https://github.com/benlubas/wrapping-paper.nvim) - Simple plugin which simulates wrapping a single line at a time using floating windows and virtual text trickery
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
@@ -2161,7 +2162,6 @@
 - [doronbehar/pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
 - [bakkeby/flexipatch-finalizer](https://github.com/bakkeby/flexipatch-finalizer) - A custom pre-processor for removing non-selected patches from flexipatch builds leaving a final patched build
 - [bakkeby/slock-flexipatch](https://github.com/bakkeby/slock-flexipatch) - An slock build with preprocessor directives to decide which patches to include during build time
-- [LukeSmithxyz/dmenu](https://github.com/LukeSmithxyz/dmenu) - dmenu setup for LARBS
 - [jswoboda/ISRSpectrum](https://github.com/jswoboda/ISRSpectrum) - Code that will create an ISR spectrum with multiple ion species.
 - [uit-cosmo/superposed-pulses](https://github.com/uit-cosmo/superposed-pulses) - Generate realizations of a Poisson point process.
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
