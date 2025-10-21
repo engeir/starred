@@ -229,6 +229,7 @@
 
 ## Go 
 
+- [ryanolee/go-pot](https://github.com/ryanolee/go-pot) - A service for giving away secrets to bots ...Probably slightly too many!
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
@@ -428,6 +429,7 @@
 
 ## Jupyter Notebook 
 
+- [stephencwelch/manim_videos](https://github.com/stephencwelch/manim_videos) - Code for the manim-generated scenes used in welch labs videos
 - [Datseris/Zero2Hero-JuliaWorkshop](https://github.com/Datseris/Zero2Hero-JuliaWorkshop) - Intensive Julia workshop that takes you from zero to hero
 - [CFMTech/jupytext_papermill_post](https://github.com/CFMTech/jupytext_papermill_post) - Material for the Jupytext+Papermill blog post
 - [Hegebf/CMIP5-forcing](https://github.com/Hegebf/CMIP5-forcing) - Code used to compute CMIP5 forcing
@@ -468,6 +470,7 @@
 
 ## Lua 
 
+- [jrop/morph.nvim](https://github.com/jrop/morph.nvim) - React-like renderer for Neovim
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
 - [mezdelex/unpack](https://github.com/mezdelex/unpack) - Small layer on top of vim.pack API to allow single file plugin configurations
@@ -930,6 +933,7 @@
 
 ## Rust 
 
+- [jdx/fnox](https://github.com/jdx/fnox) - encrypted or remote secret manager
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation.
 - [blopker/codebook](https://github.com/blopker/codebook) - Spell Checker for Code
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
