@@ -1863,6 +1863,10 @@
 
 ## others 
 
+- [jrop/morph.nvim](https://github.com/jrop/morph.nvim) - React-like renderer for Neovim
+- [jdx/fnox](https://github.com/jdx/fnox) - encrypted or remote secret manager
+- [ryanolee/go-pot](https://github.com/ryanolee/go-pot) - A service for giving away secrets to bots ...Probably slightly too many!
+- [stephencwelch/manim_videos](https://github.com/stephencwelch/manim_videos) - Code for the manim-generated scenes used in welch labs videos
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation.
 - [blopker/codebook](https://github.com/blopker/codebook) - Spell Checker for Code
 - [ImperialCollegeLondon/FLT](https://github.com/ImperialCollegeLondon/FLT) - Ongoing Lean formalisation of the proof of Fermat's Last Theorem
