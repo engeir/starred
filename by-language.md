@@ -933,7 +933,7 @@
 
 ## Rust 
 
-- [jdx/fnox](https://github.com/jdx/fnox) - encrypted or remote secret manager
+- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation.
 - [blopker/codebook](https://github.com/blopker/codebook) - Spell Checker for Code
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
