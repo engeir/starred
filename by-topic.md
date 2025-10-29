@@ -1022,6 +1022,7 @@
 
 ## golang 
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) - A Go deep-completion source for unimported packages, for use with nvim-cmp/blink.cmp
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
@@ -1647,7 +1648,7 @@
 - [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) - Diagrams as code in Neovim.
 - [aaronik/treewalker.nvim](https://github.com/aaronik/treewalker.nvim) - A neovim plugin for moving around your code in a syntax tree aware manner
 - [atiladefreitas/dooing](https://github.com/atiladefreitas/dooing) - The minimalist to-do list for Neovim
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
+- [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
 - [nvzone/minty](https://github.com/nvzone/minty) - Most Beautifully crafted color tools for Neovim
@@ -3035,6 +3036,7 @@
 
 ## vpn 
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 
 ## vue 
