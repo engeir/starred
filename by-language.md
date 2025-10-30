@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [AGS Script](#ags-script)
 - [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
@@ -62,6 +63,10 @@
 - [Vim Snippet](#vim-snippet)
 - [Vue](#vue)
 - [Zig](#zig)
+
+## AGS Script 
+
+- [nikolaia/sops-example-k8s](https://github.com/nikolaia/sops-example-k8s) - End-to-end demo of using SOPS-encrypted secrets with FluxCD and Terraform on a local Kind cluster—includes GitOps layout,   Flux bootstrap, and a sample app.
 
 ## Astro 
 
@@ -137,7 +142,7 @@
 
 - [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
 - [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Tracking and Reporting
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
@@ -711,6 +716,7 @@
 
 ## Python 
 
+- [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [PowerDNS/pdns-ansible](https://github.com/PowerDNS/pdns-ansible) - PowerDNS Authoritative Ansible role
 - [mitsuhiko/lucumr](https://github.com/mitsuhiko/lucumr) - My personal website
