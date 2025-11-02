@@ -43,6 +43,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [Pkl](#pkl)
 - [Pug](#pug)
 - [PureScript](#purescript)
 - [Python](#python)
@@ -84,7 +85,7 @@
 - [FelixKratz/SketchyVim](https://github.com/FelixKratz/SketchyVim) - Adds all vim moves and modes to macOS text fields
 - [himdel/hsetroot](https://github.com/himdel/hsetroot) - yet another wallpaper application
 - [gobbledegook/creevey](https://github.com/gobbledegook/creevey) - Phoenix Slides
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [caseyscarborough/keylogger](https://github.com/caseyscarborough/keylogger) - A no-frills keylogger for macOS.
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
@@ -234,6 +235,8 @@
 
 ## Go 
 
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [ryanolee/go-pot](https://github.com/ryanolee/go-pot) - A service for giving away secrets to bots ...Probably slightly too many!
@@ -706,6 +709,10 @@
 - [Jack000/Expose](https://github.com/Jack000/Expose) - A simple static site generator for photoessays
 - [anhsirk0/fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Simple Dilbert themed system info-fetching tool
 
+## Pkl 
+
+- [polaris-media/pkl-k8s-demo](https://github.com/polaris-media/pkl-k8s-demo) - This is how we use pkl to generate kubernetes yaml manifests
+
 ## Pug 
 
 - [denysvitali/thebestmotherfuckingwebsite](https://github.com/denysvitali/thebestmotherfuckingwebsite) - The title says it all.
@@ -942,7 +949,7 @@
 ## Rust 
 
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
-- [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation.
+- [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
 - [blopker/codebook](https://github.com/blopker/codebook) - Spell Checker for Code
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [arch7tect/exposeme](https://github.com/arch7tect/exposeme) - Secure HTTP tunneling solution written in Rust that exposes local services to the internet
@@ -1110,6 +1117,7 @@
 
 ## Shell 
 
+- [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent
 - [thesofproject/sof-bin](https://github.com/thesofproject/sof-bin) - Firmware and topology binaries
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
@@ -1238,6 +1246,7 @@
 
 ## TypeScript 
 
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [furst/cooksync-obsidian](https://github.com/furst/cooksync-obsidian) - 
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
