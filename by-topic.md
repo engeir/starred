@@ -1890,6 +1890,7 @@
 
 ## others 
 
+- [0xhckr/ghostty-shaders](https://github.com/0xhckr/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
 - [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
 - [polaris-media/pkl-k8s-demo](https://github.com/polaris-media/pkl-k8s-demo) - This is how we use pkl to generate kubernetes yaml manifests
 - [nikolaia/sops-example-k8s](https://github.com/nikolaia/sops-example-k8s) - End-to-end demo of using SOPS-encrypted secrets with FluxCD and Terraform on a local Kind cluster—includes GitOps layout,   Flux bootstrap, and a sample app.
