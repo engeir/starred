@@ -1393,6 +1393,7 @@
 ## library 
 
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image) - Display images in the terminal with python
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
 - [borb-pdf/borb](https://github.com/borb-pdf/borb) - borb is a library for reading, creating and manipulating PDF files in python.
@@ -2088,7 +2089,6 @@
 - [roobert/f-string-toggle.nvim](https://github.com/roobert/f-string-toggle.nvim) - :yarn: A Neovim plugin to toggle python f-strings
 - [FelixKratz/SbarLua](https://github.com/FelixKratz/SbarLua) - A Lua API for SketchyBar
 - [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
-- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [flauschtrud/broccoli](https://github.com/flauschtrud/broccoli) - Broccoli is a free recipe app that lets you build your own personal recipe collection and helps you cook in a more eco-friendly way.
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [munificent/vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language
@@ -2459,6 +2459,7 @@
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [abarker/pdfCropMargins](https://github.com/abarker/pdfCropMargins) - pdfCropMargins -- a program to crop the margins of PDF files
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [gyli/PyWaffle](https://github.com/gyli/PyWaffle) - 🧇 Make Waffle Charts in Python.
