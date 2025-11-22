@@ -310,7 +310,6 @@
 ## archlinux 
 
 - [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles) - Fully automated development environment for TechDufus using ansible.
-- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [jbirnick/polybar-timer](https://github.com/jbirnick/polybar-timer) - A simple & customizable timer for your bar.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
