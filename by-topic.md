@@ -2296,8 +2296,8 @@
 - [bakkeby/st-flexipatch](https://github.com/bakkeby/st-flexipatch) - An st build with preprocessor directives to decide which patches to include during build time
 - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page
 - [gechr/WhichSpace](https://github.com/gechr/WhichSpace) - 🖥  Active space menu bar icon for macOS 14.0+
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
-- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/skhd](https://github.com/asmvik/skhd) - Simple hotkey daemon for macOS
 - [firecat53/networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
 - [GjjvdBurg/paper2remarkable](https://github.com/GjjvdBurg/paper2remarkable) - Fetch an academic paper or web article and send it to the reMarkable tablet with a single command
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
