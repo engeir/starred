@@ -1066,6 +1066,7 @@
 
 ## go 
 
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
 - [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) - A Go deep-completion source for unimported packages, for use with nvim-cmp/blink.cmp
 - [yuucu/todotui](https://github.com/yuucu/todotui) - ⌨️ A Vim-like TUI that honors the simplicity of todo.txt 📝
@@ -1954,6 +1955,8 @@
 
 ## others 
 
+- [mitsuhiko/agent-commands](https://github.com/mitsuhiko/agent-commands) - These are commands I use with agents, mostly Claude
+- [nperez0111/bookhive](https://github.com/nperez0111/bookhive) - Goodreads but better. Built on top of Blue Sky.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [fiffeek/hyprdynamicmonitors](https://github.com/fiffeek/hyprdynamicmonitors) - In short: Autorandr+Arandr for Hyprland. Manage Hyprland configuration based on connected displays, power and lid state.
@@ -2339,6 +2342,7 @@
 
 ## p2p 
 
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
