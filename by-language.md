@@ -153,7 +153,6 @@
 - [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next) - RGB Driver for Linux
 - [kernc/logkeys](https://github.com/kernc/logkeys) - 📝 ⌨️ A GNU/Linux keylogger that works!
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [tikzit/tikzit](https://github.com/tikzit/tikzit) - pgf/TikZ diagram editor
@@ -243,6 +242,7 @@
 
 ## Go 
 
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [fiffeek/hyprdynamicmonitors](https://github.com/fiffeek/hyprdynamicmonitors) - In short: Autorandr+Arandr for Hyprland. Manage Hyprland configuration based on connected displays, power and lid state.
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
@@ -403,6 +403,7 @@
 - [krasch/trans-europe-planner](https://github.com/krasch/trans-europe-planner) - Making it simpler to plan cross-country rail trips in Europe
 - [qwinsi/tex2typst-webapp](https://github.com/qwinsi/tex2typst-webapp) - Translate between LaTeX / TeX math markup and Typst in your browser.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
 - [volcano-climate/vci](https://github.com/volcano-climate/vci) - VCI web tool
 - [pixelfed/pixelfed-rn](https://github.com/pixelfed/pixelfed-rn) - Pixelfed mobile app
@@ -491,6 +492,7 @@
 
 ## Lua 
 
+- [uhs-robert/sshfs.nvim](https://github.com/uhs-robert/sshfs.nvim) - 📡 sshfs.nvim integrates with Neovim, using SSH and SSHFS to manage remote systems as if they were your local files.
 - [jrop/morph.nvim](https://github.com/jrop/morph.nvim) - React-like renderer for Neovim
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
@@ -499,6 +501,7 @@
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (actively maintained version)
 - [lumen-oss/lz.n](https://github.com/lumen-oss/lz.n) - 🦥 A dead simple lazy-loading Lua library for Neovim plugins.
 - [chrisgrieser/nvim-justice](https://github.com/chrisgrieser/nvim-justice) - Just an integration of `just` in nvim.
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
 - [richardhapb/pytest.nvim](https://github.com/richardhapb/pytest.nvim) - Neovim plugin for Python testing
 - [radleylewis/nvim-lite](https://github.com/radleylewis/nvim-lite) - A suckless NeoVim Config
 - [huggingface/llm.nvim](https://github.com/huggingface/llm.nvim) - LLM powered development for Neovim
@@ -909,7 +912,7 @@
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 - [cjolowicz/cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - Hypermodern Python Cookiecutter
-- [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot
+- [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15+ exchanges, with a simple interface.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -973,7 +976,6 @@
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [cooklang/cookcli](https://github.com/cooklang/cookcli) - CLI + embedded web-server to work with Cooklang recipes
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
