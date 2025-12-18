@@ -242,6 +242,7 @@
 
 ## Go 
 
+- [rogerwesterbo/godns](https://github.com/rogerwesterbo/godns) - 
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [fiffeek/hyprdynamicmonitors](https://github.com/fiffeek/hyprdynamicmonitors) - In short: Autorandr+Arandr for Hyprland. Manage Hyprland configuration based on connected displays, power and lid state.
@@ -681,6 +682,7 @@
 
 - [atblueprints/awesome-atproto](https://github.com/atblueprints/awesome-atproto) - A curated list of awesome AT Protocol resources
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [croian/mouseless](https://github.com/croian/mouseless) - Bug tracking and more for Mouseless
 - [g5becks/Cartograph](https://github.com/g5becks/Cartograph) - Cartograph cf font
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -745,7 +747,6 @@
 - [IniasP/rnnoise-cli](https://github.com/IniasP/rnnoise-cli) - A CLI for the noise suppression LADSPA plugin at https://github.com/werman/noise-suppression-for-voice
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [Twofyw/hi](https://github.com/Twofyw/hi) - A fast terminal-native AI assistant that sees what you see.
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [nedbat/cog](https://github.com/nedbat/cog) - Small bits of Python computation for static files
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [treyhunner/better-dedent](https://github.com/treyhunner/better-dedent) - textwrap.dedent with t-string support
@@ -965,6 +966,8 @@
 
 ## Rust 
 
+- [fcoury/tsql](https://github.com/fcoury/tsql) - 🐘 tsql — A modern PostgreSQL manager TUI
+- [ronilan/rusticon](https://github.com/ronilan/rusticon) - A mouse driven SVG favicon editor for your terminal (written in Rust)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
