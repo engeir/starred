@@ -398,7 +398,7 @@
 
 ## JavaScript 
 
-- [mitsuhiko/agent-commands](https://github.com/mitsuhiko/agent-commands) - These are commands I use with agents, mostly Claude
+- [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [skills/secure-code-game](https://github.com/skills/secure-code-game) - A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.
 - [iprodanovbg/homeassistant-desktop](https://github.com/iprodanovbg/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron
@@ -1244,7 +1244,7 @@
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - additional functionality via binary patching
 - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
-- [makccr/dot](https://github.com/makccr/dot) - My dotfiles / default location for ricing configs.
+- [makccr/dot](https://github.com/makccr/dot) - Dotfiles & repo for any and all application configs.
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 
 ## Svelte 
@@ -1270,6 +1270,7 @@
 
 ## TypeScript 
 
+- [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [nperez0111/bookhive](https://github.com/nperez0111/bookhive) - Goodreads but better. Built on top of Blue Sky.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
