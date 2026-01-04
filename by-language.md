@@ -242,6 +242,7 @@
 
 ## Go 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [rogerwesterbo/godns](https://github.com/rogerwesterbo/godns) - 
@@ -1259,7 +1260,7 @@
 - [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating natural language math expressions
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [gechr/WhichSpace](https://github.com/gechr/WhichSpace) - 🖥  Active space menu bar icon for macOS 14.0+
+- [gechr/WhichSpace](https://github.com/gechr/WhichSpace) - 🖥  Menu bar utility for viewing and switching Spaces (macOS 14.0+)
 - [naman14/adb-tools-mac](https://github.com/naman14/adb-tools-mac) - Mac menu bar app for common adb tools
 
 ## TeX 
