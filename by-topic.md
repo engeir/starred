@@ -1985,6 +1985,11 @@
 
 ## others 
 
+- [ConferLabs/confer-image](https://github.com/ConferLabs/confer-image) - 
+- [OpenSecretCloud/Maple](https://github.com/OpenSecretCloud/Maple) - Maple - Private AI Chat
+- [tonybanters/clings](https://github.com/tonybanters/clings) - 
+- [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings
+- [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
@@ -2741,6 +2746,7 @@
 
 ## rust 
 
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
