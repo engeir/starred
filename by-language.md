@@ -21,6 +21,7 @@
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
 - [Fennel](#fennel)
+- [Fluent](#fluent)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
@@ -77,6 +78,8 @@
 
 ## C 
 
+- [tonybanters/clings](https://github.com/tonybanters/clings) - 
+- [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [step-/yad](https://github.com/step-/yad) - maintain "YAD" for GTK+-2 (and GTK+-3)
@@ -235,6 +238,10 @@
 ## Fennel 
 
 - [camspiers/snap](https://github.com/camspiers/snap) - A fast finder system for neovim.
+
+## Fluent 
+
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 ## GLSL 
 
@@ -409,7 +416,6 @@
 - [krasch/trans-europe-planner](https://github.com/krasch/trans-europe-planner) - Making it simpler to plan cross-country rail trips in Europe
 - [qwinsi/tex2typst-webapp](https://github.com/qwinsi/tex2typst-webapp) - Translate between LaTeX / TeX math markup and Typst in your browser.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
 - [volcano-climate/vci](https://github.com/volcano-climate/vci) - VCI web tool
 - [pixelfed/pixelfed-rn](https://github.com/pixelfed/pixelfed-rn) - Pixelfed mobile app
@@ -973,6 +979,8 @@
 
 ## Rust 
 
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+- [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [fcoury/tsql](https://github.com/fcoury/tsql) - 🐘 tsql — A modern PostgreSQL manager TUI
 - [ronilan/rusticon](https://github.com/ronilan/rusticon) - A mouse driven SVG favicon editor for your terminal (written in Rust)
@@ -1145,6 +1153,7 @@
 
 ## Shell 
 
+- [ConferLabs/confer-image](https://github.com/ConferLabs/confer-image) - 
 - [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent
 - [thesofproject/sof-bin](https://github.com/thesofproject/sof-bin) - Firmware and topology binaries
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
@@ -1277,6 +1286,7 @@
 
 ## TypeScript 
 
+- [OpenSecretCloud/Maple](https://github.com/OpenSecretCloud/Maple) - Maple - Private AI Chat
 - [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
