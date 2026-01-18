@@ -1985,6 +1985,8 @@
 
 ## others 
 
+- [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
+- [joinloops/loops-expo](https://github.com/joinloops/loops-expo) - The federated short video sharing platform app.
 - [ConferLabs/confer-image](https://github.com/ConferLabs/confer-image) - 
 - [OpenSecretCloud/Maple](https://github.com/OpenSecretCloud/Maple) - Maple - Private AI Chat
 - [tonybanters/clings](https://github.com/tonybanters/clings) - 
@@ -1992,7 +1994,6 @@
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
-- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [rogerwesterbo/godns](https://github.com/rogerwesterbo/godns) - 
 - [fcoury/tsql](https://github.com/fcoury/tsql) - 🐘 tsql — A modern PostgreSQL manager TUI
 - [ronilan/rusticon](https://github.com/ronilan/rusticon) - A mouse driven SVG favicon editor for your terminal (written in Rust)
@@ -2017,7 +2018,7 @@
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
 - [mitsuhiko/lucumr](https://github.com/mitsuhiko/lucumr) - My personal website
-- [furst/cooksync-obsidian](https://github.com/furst/cooksync-obsidian) - 
+- [furst/cooksync-obsidian](https://github.com/furst/cooksync-obsidian) - This is the official Obsidian plugin for Cooksync, maintained by the Cooksync team. It enables automatic import of recipe data from your Cooksync account. Note that this plugin requires a Cooksync acc
 - [Piotr1215/beam.nvim](https://github.com/Piotr1215/beam.nvim) - Beam nvim text operations on text objects anywhere in your file.
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [cooklang/cookcli](https://github.com/cooklang/cookcli) - CLI + embedded web-server to work with Cooklang recipes
