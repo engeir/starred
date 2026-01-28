@@ -240,7 +240,7 @@
 ## ai 
 
 - [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr) - Native speech-to-text for Linux - Fast, accurate and private system-wide dictation
-- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [mozanunal/sllm.nvim](https://github.com/mozanunal/sllm.nvim) - Integrate ChatGPT-style LLMs into Neovim: ask questions, keep multi-file context, pull diagnostics / command output, and chat without leaving your editor. Highly configurable, async, lua-only plugin.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -869,6 +869,7 @@
 
 ## documentation 
 
+- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
@@ -1276,7 +1277,7 @@
 ## home-assistant 
 
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
-- [hassio-addons/addon-example](https://github.com/hassio-addons/addon-example) - Example - Home Assistant Community Add-ons
+- [hassio-addons/app-example](https://github.com/hassio-addons/app-example) - Example - Home Assistant Community Add-ons
 - [make-all/tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
 - [DigiLive/mushroom-strategy](https://github.com/DigiLive/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards
@@ -2231,7 +2232,6 @@
 - [GourmandRecipeManager/gourmand](https://github.com/GourmandRecipeManager/gourmand) - A recipe manager for desktop with the possibilities to import, organize, and tweak recipes
 - [thinkle/gourmet](https://github.com/thinkle/gourmet) - Gourmet Recipe Manager
 - [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
-- [4thehalibit/Westbergs-Cookbook](https://github.com/4thehalibit/Westbergs-Cookbook) - Create your own online cookbook with minimal effort
 - [bast/paragliding-aerodynamics](https://github.com/bast/paragliding-aerodynamics) - Collecting notes for teaching material.
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator
