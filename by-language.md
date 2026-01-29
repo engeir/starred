@@ -203,6 +203,7 @@
 
 ## Dart 
 
+- [Fredolx/fred-tv-mobile](https://github.com/Fredolx/fred-tv-mobile) - Fred TV for Android and iOS
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -756,7 +757,7 @@
 - [IniasP/rnnoise-cli](https://github.com/IniasP/rnnoise-cli) - A CLI for the noise suppression LADSPA plugin at https://github.com/werman/noise-suppression-for-voice
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [Twofyw/hi](https://github.com/Twofyw/hi) - A fast terminal-native AI assistant that sees what you see.
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [nedbat/cog](https://github.com/nedbat/cog) - Small bits of Python computation for static files
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [treyhunner/better-dedent](https://github.com/treyhunner/better-dedent) - textwrap.dedent with t-string support
@@ -972,6 +973,7 @@
 
 ## Rust 
 
+- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [Chleba/netscanner](https://github.com/Chleba/netscanner) - Terminal Network scanner & diagnostic tool with modern TUI
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
