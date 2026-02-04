@@ -516,6 +516,7 @@
 
 ## cli 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -2010,6 +2011,7 @@
 
 ## others 
 
+- [pruner-formatter/pruner](https://github.com/pruner-formatter/pruner) - A TreeSitter-powered formatter orchestrator
 - [jonasoreland/runnerup](https://github.com/jonasoreland/runnerup) - A open source run tracker
 - [bootdotdev/bootdev](https://github.com/bootdotdev/bootdev) - A CLI used to complete coding challenges and lessons on Boot.dev
 - [Fredolx/fred-tv-mobile](https://github.com/Fredolx/fred-tv-mobile) - Fred TV for Android and iOS
@@ -2559,6 +2561,7 @@
 
 ## python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
