@@ -2045,7 +2045,7 @@
 - [nikolaia/sops-example-k8s](https://github.com/nikolaia/sops-example-k8s) - End-to-end demo of using SOPS-encrypted secrets with FluxCD and Terraform on a local Kind cluster—includes GitOps layout,   Flux bootstrap, and a sample app.
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [ryanolee/go-pot](https://github.com/ryanolee/go-pot) - A service for giving away secrets to bots ...Probably slightly too many!
-- [stephencwelch/manim_videos](https://github.com/stephencwelch/manim_videos) - Code for the manim-generated scenes used in welch labs videos
+- [WelchLabs/videos](https://github.com/WelchLabs/videos) - Code for the manim-generated scenes used in Welch Labs videos.
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
 - [blopker/codebook](https://github.com/blopker/codebook) - Spell Checker for Code
 - [ImperialCollegeLondon/FLT](https://github.com/ImperialCollegeLondon/FLT) - Ongoing Lean formalisation of the proof of Fermat's Last Theorem
