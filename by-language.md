@@ -462,7 +462,7 @@
 
 ## Jupyter Notebook 
 
-- [stephencwelch/manim_videos](https://github.com/stephencwelch/manim_videos) - Code for the manim-generated scenes used in welch labs videos
+- [WelchLabs/videos](https://github.com/WelchLabs/videos) - Code for the manim-generated scenes used in Welch Labs videos.
 - [Datseris/Zero2Hero-JuliaWorkshop](https://github.com/Datseris/Zero2Hero-JuliaWorkshop) - Intensive Julia workshop that takes you from zero to hero
 - [CFMTech/jupytext_papermill_post](https://github.com/CFMTech/jupytext_papermill_post) - Material for the Jupytext+Papermill blog post
 - [Hegebf/CMIP5-forcing](https://github.com/Hegebf/CMIP5-forcing) - Code used to compute CMIP5 forcing
