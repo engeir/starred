@@ -2252,7 +2252,7 @@
 - [stepbasin/books](https://github.com/stepbasin/books) - 
 - [axismaps/colorbrewer](https://github.com/axismaps/colorbrewer) - 
 - [jiffyclub/palettable](https://github.com/jiffyclub/palettable) - Color palettes for Python
-- [benbrastmckie/.config](https://github.com/benbrastmckie/.config) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
+- [benbrastmckie/nvim](https://github.com/benbrastmckie/nvim) - NeoVim configuration optimized for writing in LaTeX with AI integration for Avante, Lectic, and Claude-Code
 - [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
