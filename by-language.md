@@ -985,7 +985,6 @@
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [Chleba/netscanner](https://github.com/Chleba/netscanner) - Terminal Network scanner & diagnostic tool with modern TUI
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-- [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [fcoury/tsql](https://github.com/fcoury/tsql) - 🐘 tsql — A modern PostgreSQL manager TUI
 - [ronilan/rusticon](https://github.com/ronilan/rusticon) - A mouse driven SVG favicon editor for your terminal (written in Rust)
@@ -1404,6 +1403,7 @@
 
 ## Zig 
 
+- [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
