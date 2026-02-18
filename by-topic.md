@@ -1089,7 +1089,7 @@
 - [MedUnes/go-kata](https://github.com/MedUnes/go-kata) - A collection of daily coding challenges designed to help you master idiomatic Go through deliberate, repetitive practice.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) - A Go deep-completion source for unimported packages, for use with nvim-cmp/blink.cmp
 - [yuucu/todotui](https://github.com/yuucu/todotui) - ⌨️ A Vim-like TUI that honors the simplicity of todo.txt 📝
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
@@ -2008,6 +2008,7 @@
 
 ## others 
 
+- [kjokjo/ipcalc](https://github.com/kjokjo/ipcalc) - 
 - [jbuck95/nvim-sioyek-highlights](https://github.com/jbuck95/nvim-sioyek-highlights) - Search and insert Highlights made in Sioyek directly in nvim.
 - [atusy/kakehashi](https://github.com/atusy/kakehashi) - language server that bridges the gap between languages, editors, and tooling
 - [pruner-formatter/pruner](https://github.com/pruner-formatter/pruner) - A TreeSitter-powered formatter orchestrator
