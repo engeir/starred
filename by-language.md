@@ -76,6 +76,7 @@
 
 ## C 
 
+- [SSSD/sssd](https://github.com/SSSD/sssd) - A daemon to manage identity, authentication and authorization for centrally-managed systems.
 - [tonybanters/tonarchy](https://github.com/tonybanters/tonarchy) - 
 - [tonybanters/clings](https://github.com/tonybanters/clings) - 
 - [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings
@@ -731,6 +732,7 @@
 
 ## Perl 
 
+- [kjokjo/ipcalc](https://github.com/kjokjo/ipcalc) - 
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [aspiers/stow](https://github.com/aspiers/stow) - GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches
 - [Jack000/Expose](https://github.com/Jack000/Expose) - A simple static site generator for photoessays
@@ -962,7 +964,7 @@
 
 ## QML 
 
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 
 ## R 
 
