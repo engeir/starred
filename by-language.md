@@ -142,6 +142,7 @@
 
 ## C# # 
 
+- [Altinn/altinn-studio](https://github.com/Altinn/altinn-studio) - Next generation open source Altinn platform and applications.
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [furesoft/Slithin](https://github.com/furesoft/Slithin) - A management application for the remarkable tablet
 
@@ -1311,7 +1312,6 @@
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [furst/cooksync-obsidian](https://github.com/furst/cooksync-obsidian) - This is the official Obsidian plugin for Cooksync, maintained by the Cooksync team. It enables automatic import of recipe data from your Cooksync account. Note that this plugin requires a Cooksync acc
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
-- [Altinn/altinn-studio](https://github.com/Altinn/altinn-studio) - Next generation open source Altinn platform and applications.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
