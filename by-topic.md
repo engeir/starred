@@ -2032,7 +2032,7 @@
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
-- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz, Amazon Music & Deezer — no account required.
 - [rogerwesterbo/godns](https://github.com/rogerwesterbo/godns) - 
 - [fcoury/tsql](https://github.com/fcoury/tsql) - 🐘 tsql — A modern PostgreSQL manager TUI
 - [ronilan/rusticon](https://github.com/ronilan/rusticon) - A mouse driven SVG favicon editor for your terminal (written in Rust)
