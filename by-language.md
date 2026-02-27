@@ -389,7 +389,7 @@
 
 - [jonasoreland/runnerup](https://github.com/jonasoreland/runnerup) - A open source run tracker
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
-- [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
+- [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [CatimaLoyalty/Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 - [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - Repository moved to: https://codeberg.org/OpenTracksApp/OpenTracks
