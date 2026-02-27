@@ -2076,7 +2076,7 @@
 - [rogerwesterbo/createlocalk8s](https://github.com/rogerwesterbo/createlocalk8s) - Create a kubernetes cluster locally
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
-- [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
+- [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived
 - [nedbat/cog](https://github.com/nedbat/cog) - Small bits of Python computation for static files
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [treyhunner/better-dedent](https://github.com/treyhunner/better-dedent) - textwrap.dedent with t-string support
