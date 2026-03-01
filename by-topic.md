@@ -15,6 +15,7 @@
 - [api](#api)
 - [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
+- [atom](#atom)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -342,6 +343,10 @@
 
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
 - [hangyav/textLSP](https://github.com/hangyav/textLSP) - Language server for text spell and grammar check with various tools.
+
+## atom 
+
+- [jocmp/capyreader](https://github.com/jocmp/capyreader) - A smallish Android RSS reader
 
 ## automation 
 
@@ -1715,6 +1720,7 @@
 
 ## material-design 
 
+- [jocmp/capyreader](https://github.com/jocmp/capyreader) - A smallish Android RSS reader
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 
