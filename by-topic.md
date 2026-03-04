@@ -73,6 +73,7 @@
 - [embedded](#embedded)
 - [emoji](#emoji)
 - [ethereum](#ethereum)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -941,6 +942,12 @@
 
 - [bitjson/qr-code](https://github.com/bitjson/qr-code) - A no-framework, no-dependencies, customizable, animate-able, SVG-based &lt;qr-code&gt; HTML element.
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
+
+## fastapi 
+
+- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 
 ## finance 
 
@@ -2118,7 +2125,7 @@
 - [mrtz-j/typst-thesis-template](https://github.com/mrtz-j/typst-thesis-template) - A Modern UiT Thesis Template
 - [lugenx/lab](https://github.com/lugenx/lab) - Lab helps you experiment with code without friction. Type `lab` with any extension and start coding - it handles files, organization, and cleanup automatically.
 - [Hashino/doing.nvim](https://github.com/Hashino/doing.nvim) - A minimal task manager for neovim
-- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
+- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch release
 - [tjdevries/present.nvim](https://github.com/tjdevries/present.nvim) - 
 - [ForeverWintr/metafunctions](https://github.com/ForeverWintr/metafunctions) - metafunctions is a function composition library for python.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
