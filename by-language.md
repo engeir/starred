@@ -477,6 +477,7 @@
 
 ## Kotlin 
 
+- [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 - [JoshAtticus/Compressor](https://github.com/JoshAtticus/Compressor) - Lightning fast, ad free, super lightweight native video compressor for Android
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
@@ -985,6 +986,7 @@
 
 ## Rust 
 
+- [giacomopiccinini/scriptor](https://github.com/giacomopiccinini/scriptor) - Local speech-to-text CLI & TUI
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [Firstp1ck/Pacsea](https://github.com/Firstp1ck/Pacsea) - Fast TUI for searching, inspecting, and queueing pacman/AUR packages.
 - [atusy/kakehashi](https://github.com/atusy/kakehashi) - language server that bridges the gap between languages, editors, and tooling
@@ -1044,7 +1046,7 @@
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) - Beautiful and reliable typst code formatter
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
