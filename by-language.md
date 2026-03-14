@@ -394,7 +394,7 @@
 - [jonasoreland/runnerup](https://github.com/jonasoreland/runnerup) - A open source run tracker
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 - [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived
-- [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+- [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 - [CatimaLoyalty/Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 - [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - Repository moved to: https://codeberg.org/OpenTracksApp/OpenTracks
 - [jclehner/rxdroid](https://github.com/jclehner/rxdroid) - A medication reminder for Android
@@ -856,7 +856,7 @@
 - [bast/runtest](https://github.com/bast/runtest) - :clapper: Numerically tolerant end-to-end test library for research software.
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
 - [AnonymouX47/termvisage](https://github.com/AnonymouX47/termvisage) - Browse and view images in the terminal (mostly a front-end to https://github.com/AnonymouX47/term-image)
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
+- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) - Produce redistributable builds of Python
 - [pnuu/fmiopendata](https://github.com/pnuu/fmiopendata) - Python interface for FMI open data
@@ -1038,7 +1038,7 @@
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [prefix-dev/shell](https://github.com/prefix-dev/shell) - The ultimate cross-platform, bash-like shell
-- [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - 
+- [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - ⵣ Ki Editor - Multi-cursor combinatoric modal editor.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 - [ngerakines/apevents](https://github.com/ngerakines/apevents) - A federated event management system
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
