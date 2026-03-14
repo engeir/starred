@@ -248,7 +248,6 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 
 ## algorithm 
@@ -1362,6 +1361,7 @@
 
 ## java 
 
+- [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [build-server-protocol/build-server-protocol](https://github.com/build-server-protocol/build-server-protocol) - Protocol for IDEs and build tools to communicate about compile, run, test, debug and more.
@@ -2152,7 +2152,7 @@
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [prefix-dev/shell](https://github.com/prefix-dev/shell) - The ultimate cross-platform, bash-like shell
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - RiMusic is a multilingual and multiplatform application for streaming music
-- [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - 
+- [ki-editor/ki-editor](https://github.com/ki-editor/ki-editor) - ⵣ Ki Editor - Multi-cursor combinatoric modal editor.
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 - [bast/teaching-setup](https://github.com/bast/teaching-setup) - Containerized teaching setup which creates an isolated configurable shell.
 - [ngerakines/apevents](https://github.com/ngerakines/apevents) - A federated event management system
@@ -2279,6 +2279,7 @@
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [pappasam/jedi-language-server](https://github.com/pappasam/jedi-language-server) - A Python language server exclusively for Jedi. If Jedi supports it well, this language server should too.
 - [cemac/volcanic-forcing-deposition](https://github.com/cemac/volcanic-forcing-deposition) - Volcanic forcing and sulfate deposition online tool
+- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
@@ -2912,7 +2913,7 @@
 
 ## scala 
 
-- [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+- [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 - [build-server-protocol/build-server-protocol](https://github.com/build-server-protocol/build-server-protocol) - Protocol for IDEs and build tools to communicate about compile, run, test, debug and more.
 
 ## security 
