@@ -1450,6 +1450,7 @@
 
 ## kubernetes 
 
+- [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
@@ -2032,6 +2033,8 @@
 
 ## others 
 
+- [FiloSottile/mostly-harmless](https://github.com/FiloSottile/mostly-harmless) - A bag of various unrelated projects with varying levels of serviceability and destructiveness.
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
 - [artizirk/wdisplays](https://github.com/artizirk/wdisplays) - Mirror of cyclopsian/wdisplays
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
