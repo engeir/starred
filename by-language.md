@@ -991,6 +991,7 @@
 
 ## Ruby 
 
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
 - [fontist/fontist](https://github.com/fontist/fontist) - Install openly-licensed fonts on Windows, Linux and Mac!
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
@@ -1015,14 +1016,14 @@
 - [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
-- [blopker/codebook](https://github.com/blopker/codebook) - Spell Checker for Code
+- [blopker/codebook](https://github.com/blopker/codebook) - An unholy spell checker for code
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [arch7tect/exposeme](https://github.com/arch7tect/exposeme) - Secure HTTP tunneling solution written in Rust that exposes local services to the internet
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
 - [cooklang/cookcli](https://github.com/cooklang/cookcli) - Recipe Management CLI + embedded web-server in one binary
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Fast File Finder for your AI and neovim, with memory built-in
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
@@ -1033,7 +1034,7 @@
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - A clipboard manager written in Rust Programming Language.
 - [elkowar/yolk](https://github.com/elkowar/yolk) - Templated dotfile management without template files!
 - [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
 - [mkhan45/CalcuLaTeX](https://github.com/mkhan45/CalcuLaTeX) - A pretty printing calculator language with support for units. Makes calculations easier and more presentable with real time LaTeX output, along with support for units, variables, and mathematical func
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
