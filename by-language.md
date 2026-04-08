@@ -389,6 +389,7 @@
 
 ## Haxe 
 
+- [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
 - [danielo515/haxe-nvim](https://github.com/danielo515/haxe-nvim) - Configure NeoVim in Haxe!!! Lua externs for the neovim lua API
 
 ## JSON 
