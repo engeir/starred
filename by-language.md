@@ -492,6 +492,7 @@
 
 ## Kotlin 
 
+- [vishaltelangre/NerdCalci](https://github.com/vishaltelangre/NerdCalci) - Fully offline Android calculator app for power users with variable support, syntax highlighting, file-based sessions, and more.
 - [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 - [JoshAtticus/Compressor](https://github.com/JoshAtticus/Compressor) - Lightning fast, ad free, super lightweight native video compressor for Android
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
