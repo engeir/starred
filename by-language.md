@@ -362,7 +362,6 @@
 
 ## HTML 
 
-- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [rudokemper/google-maps-places-to-comaps](https://github.com/rudokemper/google-maps-places-to-comaps) - Generate GPX and KMZ files from your Google Maps saved places to import as bookmarks in CoMaps (or elsewhere)
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
 - [jlucaspains/sharp-cooking-web](https://github.com/jlucaspains/sharp-cooking-web) - Web app for Sharp Cooking
@@ -1303,6 +1302,7 @@
 
 ## Svelte 
 
+- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
 
 ## Swift 
