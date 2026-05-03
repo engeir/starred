@@ -1013,6 +1013,7 @@
 
 ## Rust 
 
+- [endevco/pitchfork](https://github.com/endevco/pitchfork) - Daemons with DX
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
 - [giacomopiccinini/scriptor](https://github.com/giacomopiccinini/scriptor) - Local speech-to-text CLI & TUI
@@ -1134,7 +1135,6 @@
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [hadronized/mind](https://github.com/hadronized/mind) - The power of trees at your fingertips
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
