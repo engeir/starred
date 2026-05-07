@@ -1005,7 +1005,7 @@
 
 ## Ruby 
 
-- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
 - [fontist/fontist](https://github.com/fontist/fontist) - Install openly-licensed fonts on Windows, Linux and Mac!
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
