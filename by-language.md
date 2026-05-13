@@ -295,7 +295,7 @@
 - [NorskHelsenett/goophy](https://github.com/NorskHelsenett/goophy) - 
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
-- [zk-org/zk](https://github.com/zk-org/zk) - Plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant for Zettelkasten or otherwise
 - [xitonix/trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka
 - [NorskHelsenett/ror](https://github.com/NorskHelsenett/ror) - ROR by NHN, Release Operate Report
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
