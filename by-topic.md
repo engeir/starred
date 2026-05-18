@@ -2346,7 +2346,6 @@
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [pappasam/jedi-language-server](https://github.com/pappasam/jedi-language-server) - A Python language server exclusively for Jedi. If Jedi supports it well, this language server should too.
 - [cemac/volcanic-forcing-deposition](https://github.com/cemac/volcanic-forcing-deposition) - Volcanic forcing and sulfate deposition online tool
-- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
