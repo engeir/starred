@@ -365,6 +365,7 @@
 
 ## HTML 
 
+- [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [rudokemper/google-maps-places-to-comaps](https://github.com/rudokemper/google-maps-places-to-comaps) - Generate GPX and KMZ files from your Google Maps saved places to import as bookmarks in CoMaps (or elsewhere)
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
 - [jlucaspains/sharp-cooking-web](https://github.com/jlucaspains/sharp-cooking-web) - Web app for Sharp Cooking
