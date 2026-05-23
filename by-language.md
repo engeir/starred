@@ -1310,6 +1310,7 @@
 
 ## Svelte 
 
+- [bjarneo/aether](https://github.com/bjarneo/aether) - Aether, native Omarchy theming support. Works standalone for other distros.
 - [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
 
@@ -1333,6 +1334,7 @@
 
 ## TypeScript 
 
+- [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
