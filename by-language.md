@@ -533,6 +533,7 @@
 
 ## Lua 
 
+- [noirbizarre/ensure.nvim](https://github.com/noirbizarre/ensure.nvim) - Ensure dependencies (Mason packages, formatters, linters, parsers...) are installed when needed
 - [jbuck95/nvim-sioyek-highlights](https://github.com/jbuck95/nvim-sioyek-highlights) - Search and insert Highlights made in Sioyek directly in nvim.
 - [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 - [uhs-robert/sshfs.nvim](https://github.com/uhs-robert/sshfs.nvim) - 📡 sshfs.nvim integrates with Neovim, using SSH and SSHFS to manage remote systems as if they were your local files.
