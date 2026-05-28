@@ -550,6 +550,7 @@
 
 ## claude-code 
 
+- [pcx-wave/vibe-skill](https://github.com/pcx-wave/vibe-skill) - Claude Code skill — delegate coding tasks to Mistral Vibe, supervise via git diff & save 50-90% Claude token usage
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
@@ -1151,6 +1152,7 @@
 
 ## go 
 
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [MedUnes/go-kata](https://github.com/MedUnes/go-kata) - A collection of daily coding challenges designed to help you master idiomatic Go through deliberate, repetitive practice.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -1183,6 +1185,7 @@
 
 ## golang 
 
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [kgoettler/twe](https://github.com/kgoettler/twe) - Timewarrior extension for power users, including an interactive TUI and a Go package for writing your own extensions.
 - [MedUnes/go-kata](https://github.com/MedUnes/go-kata) - A collection of daily coding challenges designed to help you master idiomatic Go through deliberate, repetitive practice.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -1496,6 +1499,7 @@
 
 ## kubernetes 
 
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [NorskHelsenett/gitOps](https://github.com/NorskHelsenett/gitOps) - GitOps introduction repository
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -2618,6 +2622,7 @@
 
 ## productivity 
 
+- [pcx-wave/vibe-skill](https://github.com/pcx-wave/vibe-skill) - Claude Code skill — delegate coding tasks to Mistral Vibe, supervise via git diff & save 50-90% Claude token usage
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -2998,6 +3003,7 @@
 
 ## security 
 
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
 - [NorskHelsenett/gitOps](https://github.com/NorskHelsenett/gitOps) - GitOps introduction repository
