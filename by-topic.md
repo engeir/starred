@@ -1577,6 +1577,7 @@
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [step-/yad](https://github.com/step-/yad) - maintain "YAD" for GTK+-2 (and GTK+-3)
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
+- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [kernc/logkeys](https://github.com/kernc/logkeys) - 📝 ⌨️ A GNU/Linux keylogger that works!
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [apptainer/apptainer](https://github.com/apptainer/apptainer) - Apptainer: Application containers for Linux
@@ -3455,6 +3456,7 @@
 
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
+- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [FilenCloudDienste/filen-cli](https://github.com/FilenCloudDienste/filen-cli) - Filen CLI for Windows, macOS and Linux
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
