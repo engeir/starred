@@ -558,6 +558,7 @@
 
 ## cli 
 
+- [bjarneo/kli](https://github.com/bjarneo/kli) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [retlehs/quien](https://github.com/retlehs/quien) - A better whois and domain intelligence toolkit
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
@@ -888,6 +889,7 @@
 
 ## devops 
 
+- [bjarneo/kli](https://github.com/bjarneo/kli) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
@@ -1157,6 +1159,7 @@
 
 ## go 
 
+- [bjarneo/kli](https://github.com/bjarneo/kli) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [MedUnes/go-kata](https://github.com/MedUnes/go-kata) - A collection of daily coding challenges designed to help you master idiomatic Go through deliberate, repetitive practice.
@@ -1191,6 +1194,7 @@
 
 ## golang 
 
+- [bjarneo/kli](https://github.com/bjarneo/kli) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [retlehs/quien](https://github.com/retlehs/quien) - A better whois and domain intelligence toolkit
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
@@ -1508,6 +1512,7 @@
 
 ## kubernetes 
 
+- [bjarneo/kli](https://github.com/bjarneo/kli) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [NorskHelsenett/gitOps](https://github.com/NorskHelsenett/gitOps) - GitOps introduction repository
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
@@ -2105,6 +2110,7 @@
 
 ## others 
 
+- [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
 - [noirbizarre/ensure.nvim](https://github.com/noirbizarre/ensure.nvim) - Ensure dependencies (Mason packages, formatters, linters, parsers...) are installed when needed
 - [bjarneo/aether](https://github.com/bjarneo/aether) - Aether, native Omarchy theming support. Works standalone for other distros.
 - [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
@@ -3192,6 +3198,7 @@
 
 ## terminal 
 
+- [bjarneo/kli](https://github.com/bjarneo/kli) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -3274,6 +3281,7 @@
 
 ## tui 
 
+- [bjarneo/kli](https://github.com/bjarneo/kli) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit.
 - [giacomopiccinini/scriptor](https://github.com/giacomopiccinini/scriptor) - Local speech-to-text CLI & TUI
 - [Firstp1ck/Pacsea](https://github.com/Firstp1ck/Pacsea) - Fast TUI for searching, inspecting, and queueing pacman/AUR packages.
 - [kgoettler/twe](https://github.com/kgoettler/twe) - Timewarrior extension for power users, including an interactive TUI and a Go package for writing your own extensions.
