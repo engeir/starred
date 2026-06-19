@@ -195,6 +195,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [rest-api](#rest-api)
 - [robotics](#robotics)
 - [ruby](#ruby)
@@ -2895,6 +2896,10 @@
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
+
+## redteam 
+
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## rest-api 
 
