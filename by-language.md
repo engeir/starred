@@ -222,7 +222,7 @@
 - [sprksocial/client](https://github.com/sprksocial/client) - Open Source TikTok alternative built on AT Protocol
 - [Fredolx/fred-tv-mobile](https://github.com/Fredolx/fred-tv-mobile) - Fred TV for Android and iOS
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
-- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
+- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
@@ -1107,7 +1107,7 @@
 - [jrmoulton/tmux-sessionizer](https://github.com/jrmoulton/tmux-sessionizer) - Tmux Sessionizer: A tool for opening git repositories as tmux sessions
 - [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion and snippets for Helix editor
 - [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
-- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [ismaelgv/rnr](https://github.com/ismaelgv/rnr) - A command-line tool to batch rename files and directories
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
