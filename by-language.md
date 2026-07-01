@@ -848,6 +848,7 @@
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
 - [anguswg-ucsb/ingredient-slicer](https://github.com/anguswg-ucsb/ingredient-slicer) - Python 📦 package for extracting quantity, units, and (sometimes) food names from unstructured recipe ingredients
 - [engeir/inscar](https://github.com/engeir/inscar) - Calculate an incoherent scatter spectrum with some isotropic electron velocity distribution and radar pointing at oblique angles to the magnetic field
+- [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [canonical/checkbox](https://github.com/canonical/checkbox) - Checkbox is a testing framework used to validate device compatibility with Ubuntu Linux. It’s the testing tool developed for the purposes of the Ubuntu Certification program.
 - [asottile/detect-test-pollution](https://github.com/asottile/detect-test-pollution) - a tool to detect test pollution
@@ -1236,7 +1237,6 @@
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged) - The easiest way to ship python applications.
-- [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [ktemkin/gnuradio-for-mac-without-macports](https://github.com/ktemkin/gnuradio-for-mac-without-macports) - GNURadio bundled as an app for Mac OS X (does not require MacPorts)
 - [albertored11/bsptab](https://github.com/albertored11/bsptab) - Suckless' tabbed integration into bspwm
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
