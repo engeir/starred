@@ -840,7 +840,7 @@
 - [konstin/sudoku-in-python-packaging](https://github.com/konstin/sudoku-in-python-packaging) - Sudoku solving in python packaging
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - The open source repository for Electricity Maps data parsers that powers the world's most comprehensive electricity data platform
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
@@ -1029,7 +1029,7 @@
 
 ## Rust 
 
-- [networkmanager-rs/nmrs](https://github.com/networkmanager-rs/nmrs) - Rust bindings for NetworkManager over D-Bus.
+- [freedesktop-rs/nmrs](https://github.com/freedesktop-rs/nmrs) - Rust bindings for NetworkManager over D-Bus.
 - [serhez/editr](https://github.com/serhez/editr) - Open remote projects in local editors through a Mutagen-backed mirror
 - [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
