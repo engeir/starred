@@ -34,6 +34,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -546,6 +547,11 @@
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+
+## claude 
+
+- [pcx-wave/vibe-skill](https://github.com/pcx-wave/vibe-skill) - Claude Code skill — delegate coding tasks to Mistral Vibe, supervise via git diff & save 50-90% Claude token usage
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
 ## claude-code 
 
