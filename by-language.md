@@ -266,6 +266,7 @@
 
 ## Go 
 
+- [stasfilin/nvim-sandbox](https://github.com/stasfilin/nvim-sandbox) - Run Neovim in persistent, project-scoped development containers.
 - [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [retlehs/quien](https://github.com/retlehs/quien) - A better whois and domain intelligence toolkit
