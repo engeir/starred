@@ -2125,7 +2125,8 @@
 
 ## others 
 
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [jolars/badness](https://github.com/jolars/badness) - LaTeX language server, formatter, and linter
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
 - [noirbizarre/ensure.nvim](https://github.com/noirbizarre/ensure.nvim) - Ensure dependencies (Mason packages, formatters, linters, parsers...) are installed when needed
 - [bjarneo/aether](https://github.com/bjarneo/aether) - Aether, native Omarchy theming support. Works standalone for other distros.
