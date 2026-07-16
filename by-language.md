@@ -755,7 +755,6 @@
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [leftwm/leftwm-community-themes](https://github.com/leftwm/leftwm-community-themes) - A collection of themes built by the community
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [lindelof/awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects
 - [pystardust/automeet](https://github.com/pystardust/automeet) - Join online classes automatically
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
@@ -795,7 +794,7 @@
 
 ## Python 
 
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [SamR1/FitTrackee](https://github.com/SamR1/FitTrackee) - Self-hosted outdoor activity tracker :bicyclist: [mirror of codeberg repository: https://codeberg.org/FitTrackee/FitTrackee]
 - [Yubico/yubikey-manager](https://github.com/Yubico/yubikey-manager) - Python library and command line tool for configuring any YubiKey over all USB interfaces.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -972,6 +971,7 @@
 - [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [lyrebird-voice-changer/lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written with Python & GTK
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [opengeos/leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment
 - [GjjvdBurg/paper2remarkable](https://github.com/GjjvdBurg/paper2remarkable) - Fetch an academic paper or web article and send it to the reMarkable tablet with a single command
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
@@ -1030,6 +1030,7 @@
 
 ## Rust 
 
+- [jolars/badness](https://github.com/jolars/badness) - LaTeX language server, formatter, and linter
 - [freedesktop-rs/nmrs](https://github.com/freedesktop-rs/nmrs) - Rust bindings for NetworkManager over D-Bus.
 - [serhez/editr](https://github.com/serhez/editr) - Open remote projects in local editors through a Mutagen-backed mirror
 - [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
