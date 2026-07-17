@@ -1031,7 +1031,7 @@
 ## Rust 
 
 - [jolars/badness](https://github.com/jolars/badness) - LaTeX language server, formatter, and linter
-- [freedesktop-rs/nmrs](https://github.com/freedesktop-rs/nmrs) - Rust bindings for NetworkManager over D-Bus.
+- [freedesktop-rs/nmrs](https://github.com/freedesktop-rs/nmrs) - A Rust library for managing NetworkManager connections over D-Bus.
 - [serhez/editr](https://github.com/serhez/editr) - Open remote projects in local editors through a Mutagen-backed mirror
 - [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
