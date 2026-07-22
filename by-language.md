@@ -276,7 +276,7 @@
 - [bootdotdev/bootdev](https://github.com/bootdotdev/bootdev) - CLI used to complete coding challenges and lessons on Boot.dev
 - [MedUnes/go-kata](https://github.com/MedUnes/go-kata) - A collection of daily coding challenges designed to help you master idiomatic Go through deliberate, repetitive practice.
 - [tillitis/tkey-ssh-agent](https://github.com/tillitis/tkey-ssh-agent) - SSH Agent for TKey, the flexible open hardware/software USB security key 🔑
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [rogerwesterbo/godns](https://github.com/rogerwesterbo/godns) - 
@@ -481,7 +481,7 @@
 - [callahanrts/bar](https://github.com/callahanrts/bar) - A status bar widget for Ubersicht on OS X
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
-- [bast/cicero](https://github.com/bast/cicero) - :microphone: Serving presentation slides written in Markdown.
+- [bast/cicero](https://github.com/bast/cicero) - Project continues at https://tangled.org/radovan.xyz/cicero
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
