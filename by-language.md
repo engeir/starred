@@ -276,7 +276,7 @@
 - [bootdotdev/bootdev](https://github.com/bootdotdev/bootdev) - CLI used to complete coding challenges and lessons on Boot.dev
 - [MedUnes/go-kata](https://github.com/MedUnes/go-kata) - A collection of daily coding challenges designed to help you master idiomatic Go through deliberate, repetitive practice.
 - [tillitis/tkey-ssh-agent](https://github.com/tillitis/tkey-ssh-agent) - SSH Agent for TKey, the flexible open hardware/software USB security key 🔑
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [rogerwesterbo/godns](https://github.com/rogerwesterbo/godns) - 
@@ -891,7 +891,6 @@
 - [munificent/vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language
 - [GourmandRecipeManager/gourmand](https://github.com/GourmandRecipeManager/gourmand) - A recipe manager for desktop with the possibilities to import, organize, and tweak recipes
 - [thinkle/gourmet](https://github.com/thinkle/gourmet) - Gourmet Recipe Manager
-- [bast/paragliding-aerodynamics](https://github.com/bast/paragliding-aerodynamics) - Collecting notes for teaching material.
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [jiffyclub/palettable](https://github.com/jiffyclub/palettable) - Color palettes for Python
