@@ -65,6 +65,7 @@
 - [V](#v)
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [Zig](#zig)
 
@@ -1445,6 +1446,10 @@
 ## Vim Snippet 
 
 - [gillescastel/latex-snippets](https://github.com/gillescastel/latex-snippets) - Vim + LaTeX snippets setup
+
+## Visual Basic .NET 
+
+- [Bitpainter75/FerrumPix](https://github.com/Bitpainter75/FerrumPix) - FerrumPix is a desktop photo management and editing application for Linux and Windows. Project Website https://ferrumpix.app
 
 ## Vue 
 
