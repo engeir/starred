@@ -1046,7 +1046,6 @@
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [Chleba/netscanner](https://github.com/Chleba/netscanner) - Terminal Network scanner & diagnostic tool with modern TUI
-- [OpenSecretCloud/Maple](https://github.com/OpenSecretCloud/Maple) - Maple - Private AI Chat
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [fcoury/tsql](https://github.com/fcoury/tsql) - 🐘 tsql — A modern PostgreSQL and MongoDB manager TUI
@@ -1355,6 +1354,7 @@
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [joinloops/loops-expo](https://github.com/joinloops/loops-expo) - The federated short video sharing platform app.
+- [OpenSecretCloud/Maple](https://github.com/OpenSecretCloud/Maple) - Maple - Private AI Chat
 - [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
