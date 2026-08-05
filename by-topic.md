@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [agent](#agent)
 - [agents](#agents)
 - [ai](#ai)
@@ -244,6 +245,10 @@
 - [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
+
+## 3d 
+
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 
 ## agent 
 
@@ -1836,6 +1841,7 @@
 ## mcp 
 
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
 
@@ -2026,6 +2032,7 @@
 
 ## nextjs 
 
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
@@ -2130,6 +2137,7 @@
 
 ## others 
 
+- [AfrozSaqlain/Papr](https://github.com/AfrozSaqlain/Papr) - Papr is a fast terminal-based research paper explorer in Rust. Search, discover, and download papers directly from arXiv. Organize your library, manage reading queues, take notes,  track stats to keep
 - [gurgeous/tennis](https://github.com/gurgeous/tennis) - stylish CSV tables in your terminal
 - [jolars/badness](https://github.com/jolars/badness) - LaTeX language server, formatter, and linter
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
@@ -2139,7 +2147,6 @@
 - [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
 - [EdwardAThomson/NoBS-Recorder](https://github.com/EdwardAThomson/NoBS-Recorder) - A minimal, reliable desktop screen recorder for Linux (X11).
 - [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Wayland
-- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
 - [FiloSottile/mostly-harmless](https://github.com/FiloSottile/mostly-harmless) - A bag of various unrelated projects with varying levels of serviceability and destructiveness.
 - [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
@@ -3359,6 +3366,7 @@
 
 ## typescript 
 
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
