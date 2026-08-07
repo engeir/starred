@@ -1450,7 +1450,7 @@
 
 ## Visual Basic .NET 
 
-- [Bitpainter75/FerrumPix](https://github.com/Bitpainter75/FerrumPix) - FerrumPix is a desktop photo management and editing application for Linux and Windows. Project Website https://ferrumpix.app
+- [Bitpainter75/FerrumPix](https://github.com/Bitpainter75/FerrumPix) - FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS.
 
 ## Vue 
 
