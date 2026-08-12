@@ -273,11 +273,12 @@
 - [retlehs/quien](https://github.com/retlehs/quien) - A better whois and domain intelligence toolkit
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [bjarneo/aether](https://github.com/bjarneo/aether) - Aether, native Omarchy theming support. Works standalone for other distros.
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [kgoettler/twe](https://github.com/kgoettler/twe) - Timewarrior extension for power users, including an interactive TUI and a Go package for writing your own extensions.
 - [bootdotdev/bootdev](https://github.com/bootdotdev/bootdev) - CLI used to complete coding challenges and lessons on Boot.dev
 - [MedUnes/go-kata](https://github.com/MedUnes/go-kata) - A collection of daily coding challenges designed to help you master idiomatic Go through deliberate, repetitive practice.
 - [tillitis/tkey-ssh-agent](https://github.com/tillitis/tkey-ssh-agent) - SSH Agent for TKey, the flexible open hardware/software USB security key 🔑
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [rogerwesterbo/godns](https://github.com/rogerwesterbo/godns) - 
@@ -434,7 +435,6 @@
 ## JavaScript 
 
 - [EdwardAThomson/NoBS-Recorder](https://github.com/EdwardAThomson/NoBS-Recorder) - A minimal, reliable desktop screen recorder for Linux (X11).
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [NorskHelsenett/gitOps](https://github.com/NorskHelsenett/gitOps) - GitOps introduction repository
 - [FiloSottile/mostly-harmless](https://github.com/FiloSottile/mostly-harmless) - A bag of various unrelated projects with varying levels of serviceability and destructiveness.
 - [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interf
