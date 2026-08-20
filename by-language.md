@@ -231,7 +231,6 @@
 
 ## Dockerfile 
 
-- [TechHutTV/homelab](https://github.com/TechHutTV/homelab) - Homelab stacks, templates, and more fun resources!
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 - [linuxserver/docker-grocy](https://github.com/linuxserver/docker-grocy) - A container for grocy - the ERP application for your kitchen https://grocy.info
 - [ThePrimeagen/ansible](https://github.com/ThePrimeagen/ansible) - 
@@ -740,6 +739,7 @@
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [atblueprints/awesome-atproto](https://github.com/atblueprints/awesome-atproto) - A curated list of awesome AT Protocol resources
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
+- [TechHutTV/homelab](https://github.com/TechHutTV/homelab) - Homelab stacks, templates, and more fun resources!
 - [cymian/mouseless](https://github.com/cymian/mouseless) - Bug tracking and more for Mouseless
 - [g5becks/Cartograph](https://github.com/g5becks/Cartograph) - Cartograph cf font
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -1189,7 +1189,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-- [iorigin-ai/rust-by-practice](https://github.com/iorigin-ai/rust-by-practice) - Rust By Practice will evolve into Origin.
+- [origin-bi/rust-by-practice](https://github.com/origin-bi/rust-by-practice) - Rust By Practice will evolve into Origin.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
