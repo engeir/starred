@@ -562,7 +562,7 @@
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [benlubas/wrapping-paper.nvim](https://github.com/benlubas/wrapping-paper.nvim) - Simple plugin which simulates wrapping a single line at a time using floating windows and virtual text trickery
 - [2KAbhishek/tdo.nvim](https://github.com/2KAbhishek/tdo.nvim) - Fast & Simple Notes in Neovim 📃🚀
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+- [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [mfussenegger/nvim-ansible](https://github.com/mfussenegger/nvim-ansible) - Small neovim plugin to make working with Ansible playbooks or roles more convenient
 - [OXY2DEV/bars.nvim](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar for Neovim.
 - [acsandmann/AeroSpaceLua](https://github.com/acsandmann/AeroSpaceLua) - a lua client for the aerospace server to reduce latency when interfacing from sketchybar
@@ -1029,6 +1029,7 @@
 
 ## Rust 
 
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [AfrozSaqlain/Papr](https://github.com/AfrozSaqlain/Papr) - Papr is a fast terminal-based workspace written in Rust. Get daily new papers in your feed from your field of research, search, discover, and download papers directly from arXiv. Organize your library
 - [gurgeous/tennis](https://github.com/gurgeous/tennis) - stylish CSV tables in your terminal
 - [jolars/badness](https://github.com/jolars/badness) - LaTeX language server, formatter, and linter
