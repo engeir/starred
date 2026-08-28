@@ -2167,7 +2167,7 @@
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
 - [noirbizarre/ensure.nvim](https://github.com/noirbizarre/ensure.nvim) - Ensure dependencies (Mason packages, formatters, linters, parsers...) are installed when needed
-- [bjarneo/aether](https://github.com/bjarneo/aether) - Aether, native Omarchy theming support. Works standalone for other distros.
+- [omacom/aether](https://github.com/omacom/aether) - Aether, native Omarchy theming support. Works standalone for other distros.
 - [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
 - [EdwardAThomson/NoBS-Recorder](https://github.com/EdwardAThomson/NoBS-Recorder) - A minimal, reliable desktop screen recorder for Linux (X11).
 - [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Wayland
