@@ -654,7 +654,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [AnonymouX47/termvisage](https://github.com/AnonymouX47/termvisage) - Browse and view images in the terminal (mostly a front-end to https://github.com/AnonymouX47/term-image)
-- [harrisonlabollita/ris-2-bib](https://github.com/harrisonlabollita/ris-2-bib) - A command line tool to convert RIS files into bib files for LaTeX bibliographies
+- [harrisonlabollita/shelf](https://github.com/harrisonlabollita/shelf) - A command line tool to convert RIS files into bib files for LaTeX bibliographies
 - [nao1215/gup](https://github.com/nao1215/gup) - Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
@@ -1263,7 +1263,7 @@
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [harrisonlabollita/ris-2-bib](https://github.com/harrisonlabollita/ris-2-bib) - A command line tool to convert RIS files into bib files for LaTeX bibliographies
+- [harrisonlabollita/shelf](https://github.com/harrisonlabollita/shelf) - A command line tool to convert RIS files into bib files for LaTeX bibliographies
 - [nao1215/gup](https://github.com/nao1215/gup) - Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
@@ -1603,7 +1603,7 @@
 - [evesdropper/luasnip-latex-snippets.nvim](https://github.com/evesdropper/luasnip-latex-snippets.nvim) - A set of preconfigured snippets for LaTeX for the snippet engine LuaSnip.
 - [vinay0410/tectonic-action](https://github.com/vinay0410/tectonic-action) - Compile Tex files easily
 - [WtfJoke/setup-tectonic](https://github.com/WtfJoke/setup-tectonic) - Sets up Tectonic in your GitHub Actions workflow so you can compile your LaTeX documents.
-- [harrisonlabollita/ris-2-bib](https://github.com/harrisonlabollita/ris-2-bib) - A command line tool to convert RIS files into bib files for LaTeX bibliographies
+- [harrisonlabollita/shelf](https://github.com/harrisonlabollita/shelf) - A command line tool to convert RIS files into bib files for LaTeX bibliographies
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [mneri/pnglatex](https://github.com/mneri/pnglatex) - Create PNG Images from LaTeX Formulas
