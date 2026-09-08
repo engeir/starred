@@ -2196,7 +2196,7 @@
 - [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 - [joinloops/loops-expo](https://github.com/joinloops/loops-expo) - The federated short video sharing platform app.
 - [ConferLabs/confer-image](https://github.com/ConferLabs/confer-image) - 
-- [OpenSecretCloud/Maple](https://github.com/OpenSecretCloud/Maple) - Maple - Private AI Chat
+- [MaplePrivacyLabs/Maple](https://github.com/MaplePrivacyLabs/Maple) - Maple - Private AI Chat
 - [tonybanters/clings](https://github.com/tonybanters/clings) - 
 - [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
