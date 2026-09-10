@@ -542,6 +542,7 @@
 
 ## Lua 
 
+- [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) - Manage Gitlab resources in Neovim
 - [noirbizarre/ensure.nvim](https://github.com/noirbizarre/ensure.nvim) - Ensure dependencies (Mason packages, formatters, linters, parsers...) are installed when needed
 - [jbuck95/nvim-sioyek-highlights](https://github.com/jbuck95/nvim-sioyek-highlights) - Search and insert Highlights made in Sioyek directly in nvim.
 - [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
@@ -1351,7 +1352,7 @@
 ## TypeScript 
 
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
-- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
