@@ -494,6 +494,7 @@
 - [WelchLabs/videos](https://github.com/WelchLabs/videos) - Supporting code used to develop the math and science videos found on Welch Labs.
 - [Datseris/Zero2Hero-JuliaWorkshop](https://github.com/Datseris/Zero2Hero-JuliaWorkshop) - Intensive Julia workshop that takes you from zero to hero
 - [CFMTech/jupytext_papermill_post](https://github.com/CFMTech/jupytext_papermill_post) - Material for the Jupytext+Papermill blog post
+- [gyli/PyWaffle](https://github.com/gyli/PyWaffle) - 🧇 Make Waffle Charts in Python.
 - [Hegebf/CMIP5-forcing](https://github.com/Hegebf/CMIP5-forcing) - Code used to compute CMIP5 forcing
 - [GSD6338/XmasTree](https://github.com/GSD6338/XmasTree) - Computational Xmas Tree lights!
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
@@ -745,6 +746,7 @@
 - [cymian/mouseless](https://github.com/cymian/mouseless) - Bug tracking and more for Mouseless
 - [g5becks/Cartograph](https://github.com/g5becks/Cartograph) - Cartograph cf font
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Coming soon.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [stepbasin/books](https://github.com/stepbasin/books) - 
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
@@ -896,7 +898,6 @@
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [jiffyclub/palettable](https://github.com/jiffyclub/palettable) - Color palettes for Python
-- [gyli/PyWaffle](https://github.com/gyli/PyWaffle) - 🧇 Make Waffle Charts in Python.
 - [pappasam/jedi-language-server](https://github.com/pappasam/jedi-language-server) - A Python language server exclusively for Jedi. If Jedi supports it well, this language server should too.
 - [bast/runtest](https://github.com/bast/runtest) - :clapper: Numerically tolerant end-to-end test library for research software.
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
@@ -1112,7 +1113,6 @@
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [taiki-e/install-action](https://github.com/taiki-e/install-action) - GitHub Action for installing development tools (mainly from GitHub Releases).
 - [dalance/amber](https://github.com/dalance/amber) - A code search / replace tool
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [jrmoulton/tmux-sessionizer](https://github.com/jrmoulton/tmux-sessionizer) - Tmux Sessionizer: A tool for opening git repositories as tmux sessions
 - [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion and snippets for Helix editor
 - [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
