@@ -710,7 +710,7 @@
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [budswa/nvim](https://github.com/budswa/nvim) - 
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
-- [petobens/dotfiles](https://github.com/petobens/dotfiles) - My dotfiles for OSX and Arch
+- [petobens/dotfiles](https://github.com/petobens/dotfiles) - My dotfiles for Arch Linux
 
 ## Makefile 
 
@@ -1056,6 +1056,7 @@
 - [ronilan/rusticon](https://github.com/ronilan/rusticon) - A mouse driven SVG favicon editor for your terminal, that also works on the web (written in Rust w/ Incredible)
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
 - [blopker/codebook](https://github.com/blopker/codebook) - An unholy spell checker for code
@@ -1362,7 +1363,6 @@
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
 - [nperez0111/bookhive](https://github.com/nperez0111/bookhive) - Track your books, share your shelves, see what others are reading
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [furst/cooksync-obsidian](https://github.com/furst/cooksync-obsidian) - This is the official Obsidian plugin for Cooksync, maintained by the Cooksync team. It enables automatic import of recipe data from your Cooksync account. Note that this plugin requires a Cooksync acc
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
