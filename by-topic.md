@@ -2172,6 +2172,8 @@
 
 ## others 
 
+- [conversun/cliproxy-plugin-opencode-cloak](https://github.com/conversun/cliproxy-plugin-opencode-cloak) - CLIProxyAPI request_interceptor plugin: cloaks opencode CLI requests as official Claude Code (billing header + surgical system-prompt sanitize)
+- [bjarneo/flux](https://github.com/bjarneo/flux) - Connect an Omarchy computer to your phone: files, clipboard, notifications, media, camera, and more
 - [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
 - [AfrozSaqlain/Papr](https://github.com/AfrozSaqlain/Papr) - Papr is a fast terminal-based workspace written in Rust. Get daily new papers in your feed from your field of research, search, discover, and download papers directly from arXiv. Organize your library
 - [gurgeous/tennis](https://github.com/gurgeous/tennis) - stylish CSV tables in your terminal
@@ -2988,6 +2990,7 @@
 
 ## rust 
 
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [freedesktop-rs/nmrs](https://github.com/freedesktop-rs/nmrs) - A Rust library for managing NetworkManager connections over D-Bus.
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
