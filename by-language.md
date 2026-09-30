@@ -502,7 +502,6 @@
 
 ## Kotlin 
 
-- [bjarneo/flux](https://github.com/bjarneo/flux) - Connect an Omarchy computer to your phone: files, clipboard, notifications, media, camera, and more
 - [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [vishaltelangre/NerdCalci](https://github.com/vishaltelangre/NerdCalci) - Fully offline Android calculator app for power users with variable support, syntax highlighting, file-based sessions, and more.
 - [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
@@ -1036,7 +1035,9 @@
 
 ## Rust 
 
+- [jdx/packslip](https://github.com/jdx/packslip) - A signed release manifest for vendor binaries
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [AfrozSaqlain/Papr](https://github.com/AfrozSaqlain/Papr) - Papr is a fast terminal-based workspace written in Rust. Get daily new papers in your feed from your field of research, search, discover, and download papers directly from arXiv. Organize your library
 - [gurgeous/tennis](https://github.com/gurgeous/tennis) - stylish CSV tables in your terminal
 - [jolars/badness](https://github.com/jolars/badness) - LaTeX language server, formatter, and linter
@@ -1337,6 +1338,7 @@
 
 ## Swift 
 
+- [bjarneo/flux](https://github.com/bjarneo/flux) - Connect an Omarchy computer to your phone: files, clipboard, notifications, media, camera, and more
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating natural language math expressions
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
@@ -1355,7 +1357,6 @@
 
 ## TypeScript 
 
-- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
