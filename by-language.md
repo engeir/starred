@@ -262,7 +262,7 @@
 
 ## GLSL 
 
-- [sahaj-b/ghostty-cursor-shaders](https://github.com/sahaj-b/ghostty-cursor-shaders) - Custom cursor shaders for ghostty (trails and ripple/pulse effects)
+- [sahaj-b/cursor-shaders](https://github.com/sahaj-b/cursor-shaders) - Custom cursor shaders for ghostty (trails and ripple/pulse effects)
 - [0xhckr/ghostty-shaders](https://github.com/0xhckr/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
 
 ## Go 
@@ -747,7 +747,7 @@
 - [cymian/mouseless](https://github.com/cymian/mouseless) - Bug tracking and more for Mouseless
 - [g5becks/Cartograph](https://github.com/g5becks/Cartograph) - Cartograph cf font
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide
 - [stepbasin/books](https://github.com/stepbasin/books) - 
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [danyspin97/TelegramBotsList](https://github.com/danyspin97/TelegramBotsList) - A list of all Telegram bots source hosted on github.
