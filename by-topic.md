@@ -2029,7 +2029,7 @@
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window
 - [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) - A powerful Neovim plugin that lets users choose & modify RGB/HSL/HEX colors.
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
 - [miversen33/import.nvim](https://github.com/miversen33/import.nvim) - A safe require override with niceties
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
@@ -2196,7 +2196,7 @@
 - [artizirk/wdisplays](https://github.com/artizirk/wdisplays) - Mirror of cyclopsian/wdisplays
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
-- [sahaj-b/cursor-shaders](https://github.com/sahaj-b/cursor-shaders) - Custom cursor shaders for ghostty (trails and ripple/pulse effects)
+- [sahaj-b/cursor-shaders](https://github.com/sahaj-b/cursor-shaders) - Custom cursor shaders for ghostty & kitty terminals (trails and ripple/pulse effects)
 - [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [SSSD/sssd](https://github.com/SSSD/sssd) - A daemon to manage identity, authentication and authorization for centrally-managed systems.
 - [kjokjo/ipcalc](https://github.com/kjokjo/ipcalc) - 
@@ -3491,7 +3491,7 @@
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [kamykn/spelunker.vim](https://github.com/kamykn/spelunker.vim) - Improved vim spelling plugin (with camel case support)!
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
 - [LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim) - 🚀 Launch.nvim is modular starter for Neovim.
