@@ -83,6 +83,7 @@
 
 ## C 
 
+- [tsirysndr/rockboxd](https://github.com/tsirysndr/rockboxd) - A modern, network-enabled music player platform built on Rockbox technology https://www.rockbox.org
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
 - [artizirk/wdisplays](https://github.com/artizirk/wdisplays) - Mirror of cyclopsian/wdisplays
 - [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
@@ -438,7 +439,6 @@
 - [EdwardAThomson/NoBS-Recorder](https://github.com/EdwardAThomson/NoBS-Recorder) - A minimal, reliable desktop screen recorder for Linux (X11).
 - [NorskHelsenett/gitOps](https://github.com/NorskHelsenett/gitOps) - GitOps introduction repository
 - [FiloSottile/mostly-harmless](https://github.com/FiloSottile/mostly-harmless) - A bag of various unrelated projects with varying levels of serviceability and destructiveness.
-- [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interf
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [skills/secure-code-game](https://github.com/skills/secure-code-game) - Learn to code securely while having fun through our popular open source in-editor experience, designed for developers, students, and anyone curious about security. Get started for free in under 2 minu
@@ -502,6 +502,7 @@
 
 ## Kotlin 
 
+- [sverrejb/bru](https://github.com/sverrejb/bru) - Link your android phone to your computer. Send SMSes from desktop, share copy pasted text, send files etc
 - [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [vishaltelangre/NerdCalci](https://github.com/vishaltelangre/NerdCalci) - Fully offline Android calculator app for power users with variable support, syntax highlighting, file-based sessions, and more.
 - [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
@@ -803,6 +804,7 @@
 - [SamR1/FitTrackee](https://github.com/SamR1/FitTrackee) - Self-hosted outdoor activity tracker :bicyclist: [mirror of codeberg repository: https://codeberg.org/FitTrackee/FitTrackee]
 - [Yubico/yubikey-manager](https://github.com/Yubico/yubikey-manager) - Python library and command line tool for configuring any YubiKey over all USB interfaces.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
+- [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interf
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr) - Native speech-to-text for Linux - Fast, accurate, private, and hackable system-wide dictation
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
@@ -1017,6 +1019,7 @@
 
 ## QML 
 
+- [Brainitech/Brain_Shell](https://github.com/Brainitech/Brain_Shell) - Brain_Shell is a dynamic, highly un-intrusive and modular desktop shell built with Quickshell and QML, currently supports Arch and NixOS on Hyprland
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 
 ## R 
@@ -1035,6 +1038,7 @@
 
 ## Rust 
 
+- [sverrejb/auox](https://github.com/sverrejb/auox) - Aurum Oxydatum - The terminal banking application for Sparebank 1 customers.
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [jdx/packslip](https://github.com/jdx/packslip) - A signed release manifest for vendor binaries
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
@@ -1356,6 +1360,9 @@
 
 ## TypeScript 
 
+- [flo-bit/atmo-events](https://github.com/flo-bit/atmo-events) - 
+- [OpenMeet-Team/openmeet-api](https://github.com/OpenMeet-Team/openmeet-api) - Provides the API for OpenMeet
+- [OpenMeet-Team/openmeet-platform](https://github.com/OpenMeet-Team/openmeet-platform) - Opensource Meetup.com replacement; find or create your communities
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
