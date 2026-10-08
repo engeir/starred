@@ -304,6 +304,7 @@
 
 ## android 
 
+- [sverrejb/bru](https://github.com/sverrejb/bru) - Link your android phone to your computer. Send SMSes from desktop, share copy pasted text, send files etc
 - [vishaltelangre/NerdCalci](https://github.com/vishaltelangre/NerdCalci) - Fully offline Android calculator app for power users with variable support, syntax highlighting, file-based sessions, and more.
 - [Generator/Awesome-Android-TV-FOSS-Apps](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps) - A curated list of FOSS Android TV apps
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
@@ -1290,6 +1291,7 @@
 
 ## graphql 
 
+- [tsirysndr/rockboxd](https://github.com/tsirysndr/rockboxd) - A modern, network-enabled music player platform built on Rockbox technology https://www.rockbox.org
 - [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your deskto
 
 ## gui 
@@ -2175,6 +2177,11 @@
 
 ## others 
 
+- [sverrejb/auox](https://github.com/sverrejb/auox) - Aurum Oxydatum - The terminal banking application for Sparebank 1 customers.
+- [flo-bit/atmo-events](https://github.com/flo-bit/atmo-events) - 
+- [OpenMeet-Team/openmeet-api](https://github.com/OpenMeet-Team/openmeet-api) - Provides the API for OpenMeet
+- [OpenMeet-Team/openmeet-platform](https://github.com/OpenMeet-Team/openmeet-platform) - Opensource Meetup.com replacement; find or create your communities
+- [Brainitech/Brain_Shell](https://github.com/Brainitech/Brain_Shell) - Brain_Shell is a dynamic, highly un-intrusive and modular desktop shell built with Quickshell and QML, currently supports Arch and NixOS on Hyprland
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [jdx/packslip](https://github.com/jdx/packslip) - A signed release manifest for vendor binaries
 - [conversun/cliproxy-plugin-opencode-cloak](https://github.com/conversun/cliproxy-plugin-opencode-cloak) - CLIProxyAPI request_interceptor plugin: cloaks opencode CLI requests as official Claude Code (billing header + surgical system-prompt sanitize)
@@ -2994,6 +3001,7 @@
 
 ## rust 
 
+- [tsirysndr/rockboxd](https://github.com/tsirysndr/rockboxd) - A modern, network-enabled music player platform built on Rockbox technology https://www.rockbox.org
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [freedesktop-rs/nmrs](https://github.com/freedesktop-rs/nmrs) - A Rust library for managing NetworkManager connections over D-Bus.
@@ -3006,7 +3014,6 @@
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
-- [cooklang/cookcli](https://github.com/cooklang/cookcli) - Recipe Management CLI + embedded web-server in one binary
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
@@ -3146,6 +3153,7 @@
 
 ## self-hosted 
 
+- [tsirysndr/rockboxd](https://github.com/tsirysndr/rockboxd) - A modern, network-enabled music player platform built on Rockbox technology https://www.rockbox.org
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 - [SamR1/FitTrackee](https://github.com/SamR1/FitTrackee) - Self-hosted outdoor activity tracker :bicyclist: [mirror of codeberg repository: https://codeberg.org/FitTrackee/FitTrackee]
 - [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interf
@@ -3154,6 +3162,7 @@
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
+- [cooklang/cookcli](https://github.com/cooklang/cookcli) - Recipe Management CLI + embedded web-server in one binary
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -3412,6 +3421,7 @@
 
 ## typescript 
 
+- [tsirysndr/rockboxd](https://github.com/tsirysndr/rockboxd) - A modern, network-enabled music player platform built on Rockbox technology https://www.rockbox.org
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -3614,6 +3624,7 @@
 
 ## zig 
 
+- [tsirysndr/rockboxd](https://github.com/tsirysndr/rockboxd) - A modern, network-enabled music player platform built on Rockbox technology https://www.rockbox.org
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 ## zsh 
