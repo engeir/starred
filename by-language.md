@@ -289,7 +289,7 @@
 - [fiffeek/hyprdynamicmonitors](https://github.com/fiffeek/hyprdynamicmonitors) - In short: Autorandr+Arandr for Hyprland. Manage Hyprland configuration based on connected displays, power and lid state.
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [ryanolee/go-pot](https://github.com/ryanolee/go-pot) - A service for giving away secrets to bots ...Probably slightly too many!
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
