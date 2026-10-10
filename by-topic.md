@@ -95,8 +95,6 @@
 - [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
-- [game-engine](#game-engine)
-- [gamedev](#gamedev)
 - [games](#games)
 - [gaming](#gaming)
 - [gh-extension](#gh-extension)
@@ -179,7 +177,6 @@
 - [perl](#perl)
 - [php](#php)
 - [physics](#physics)
-- [pico-8](#pico-8)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -588,7 +585,7 @@
 
 ## cli 
 
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline suggestions for zsh
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
 - [stasfilin/nvim-sandbox](https://github.com/stasfilin/nvim-sandbox) - Run Neovim in persistent, project-scoped development containers.
@@ -901,7 +898,7 @@
 
 ## developer-tools 
 
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline suggestions for zsh
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -1120,21 +1117,11 @@
 
 ## game 
 
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [ligurio/awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games
 
 ## game-development 
 
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-
-## game-engine 
-
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-
-## gamedev 
-
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## games 
 
@@ -1206,7 +1193,7 @@
 
 ## go 
 
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline suggestions for zsh
 - [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
@@ -1418,7 +1405,6 @@
 ## html 
 
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [brentthorne/posterdown](https://github.com/brentthorne/posterdown) - Use RMarkdown to generate PDF Conference Posters via HTML
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 
@@ -2167,7 +2153,6 @@
 ## opengl 
 
 - [rohtie/Sakuhin](https://github.com/rohtie/Sakuhin) - Software for live coding visuals with OpenGL shaders
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [naelstrof/slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 
@@ -2659,14 +2644,9 @@
 - [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
 
-## pico-8 
-
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-
 ## pixel-art 
 
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## postgresql 
 
@@ -2716,7 +2696,7 @@
 
 ## productivity 
 
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline suggestions for zsh
 - [pcx-wave/vibe-skill](https://github.com/pcx-wave/vibe-skill) - Claude Code skill — delegate coding tasks to Mistral Vibe, supervise via git diff & save 50-90% Claude token usage
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
@@ -2856,7 +2836,6 @@
 - [darrenburns/ward](https://github.com/darrenburns/ward) - Ward is a modern test framework for Python with a focus on productivity and readability.
 - [xgcm/xgcm](https://github.com/xgcm/xgcm) - python package for analyzing general circulation model output data
 - [dojeda/poetry2conda](https://github.com/dojeda/poetry2conda) - Convert pyproject.toml to environment.yaml
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [wntrblm/nox](https://github.com/wntrblm/nox) - Flexible test automation for Python
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [NCAR/geocat-examples](https://github.com/NCAR/geocat-examples) - GeoCAT-examples provides a gallery of visualization examples demonstrating how to reproduce plots from NCL Applications scripts with packages in Python.  It also includes some longer form examples dem
@@ -3090,7 +3069,6 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Rust By Practice will evolve into Origin.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [oppiliappan/dijo](https://github.com/oppiliappan/dijo) - scriptable, curses-based, digital habit tracker
@@ -3199,7 +3177,7 @@
 
 ## shell 
 
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline suggestions for zsh
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
@@ -3629,7 +3607,7 @@
 
 ## zsh 
 
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline suggestions for zsh
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
