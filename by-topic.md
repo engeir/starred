@@ -2163,6 +2163,7 @@
 
 ## others 
 
+- [thornbux/glimt](https://github.com/thornbux/glimt) - Quick image viewer in Rust inspired by Geeqie
 - [sverrejb/auox](https://github.com/sverrejb/auox) - Aurum Oxydatum - The terminal banking application for Sparebank 1 customers.
 - [flo-bit/atmo-events](https://github.com/flo-bit/atmo-events) - 
 - [OpenMeet-Team/openmeet-api](https://github.com/OpenMeet-Team/openmeet-api) - Provides the API for OpenMeet
