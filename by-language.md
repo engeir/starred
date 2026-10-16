@@ -159,6 +159,7 @@
 
 ## C++ 
 
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Wayland
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
@@ -1042,6 +1043,7 @@
 
 ## Rust 
 
+- [moiCR/Capsule](https://github.com/moiCR/Capsule) - A Wayland desktop shell built with GPUI
 - [thornbux/glimt](https://github.com/thornbux/glimt) - Quick image viewer in Rust inspired by Geeqie
 - [sverrejb/auox](https://github.com/sverrejb/auox) - Aurum Oxydatum - The terminal banking application for Sparebank 1 customers.
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
