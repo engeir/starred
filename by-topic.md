@@ -1624,6 +1624,8 @@
 
 ## linux 
 
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
+- [moiCR/Capsule](https://github.com/moiCR/Capsule) - A Wayland desktop shell built with GPUI
 - [Bitpainter75/FerrumPix](https://github.com/Bitpainter75/FerrumPix) - FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS.
 - [freedesktop-rs/nmrs](https://github.com/freedesktop-rs/nmrs) - A Rust library for managing NetworkManager connections over D-Bus.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -2983,6 +2985,7 @@
 
 ## rust 
 
+- [moiCR/Capsule](https://github.com/moiCR/Capsule) - A Wayland desktop shell built with GPUI
 - [tsirysndr/rockboxd](https://github.com/tsirysndr/rockboxd) - A modern, network-enabled music player platform built on Rockbox technology https://www.rockbox.org
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
@@ -3180,6 +3183,7 @@
 
 ## shell 
 
+- [moiCR/Capsule](https://github.com/moiCR/Capsule) - A Wayland desktop shell built with GPUI
 - [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline suggestions for zsh
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
