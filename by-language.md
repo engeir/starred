@@ -1043,6 +1043,7 @@
 
 ## Rust 
 
+- [navikt/cplt](https://github.com/navikt/cplt) - Sandbox for AI coding agents. Runs Copilot CLI, Claude Code, OpenCode, Gemini CLI, Antigravity, Pi, goose or a plain shell inside a kernel-level sandbox, with git and gh guards and sandbox policy comm
 - [ernestoCruz05/mdisplay](https://github.com/ernestoCruz05/mdisplay) - GUI monitor layout manager for mangowc :3
 - [moiCR/Capsule](https://github.com/moiCR/Capsule) - A Wayland desktop shell built with GPUI
 - [thornbux/glimt](https://github.com/thornbux/glimt) - Quick image viewer in Rust inspired by Geeqie
