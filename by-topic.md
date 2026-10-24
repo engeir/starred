@@ -75,6 +75,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -1001,6 +1002,10 @@
 - [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 
+## downloader 
+
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
 ## dsh-plugin 
 
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -1725,7 +1730,7 @@
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [radleylewis/nvim-lite](https://github.com/radleylewis/nvim-lite) - A Powerful but Tastefully Minimal NeoVim Configuration.
 - [huggingface/llm.nvim](https://github.com/huggingface/llm.nvim) - LLM powered development for Neovim
-- [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua
+- [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua and Luau
 - [nfrid/due.nvim](https://github.com/nfrid/due.nvim) - Neovim plugin for displaying due dates
 - [aaronik/treewalker.nvim](https://github.com/aaronik/treewalker.nvim) - A neovim plugin for moving around your code in a syntax tree aware manner
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
@@ -2622,7 +2627,7 @@
 ## package-manager 
 
 - [Firstp1ck/Pacsea](https://github.com/Firstp1ck/Pacsea) - Fast TUI for searching, inspecting, and queueing pacman/AUR packages.
-- [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua
+- [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua and Luau
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
