@@ -1013,7 +1013,7 @@
 ## education 
 
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
-- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
+- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
@@ -1362,7 +1362,6 @@
 - [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim) - 🔎 Neovim plugin for viewing all the URLs in a buffer
 - [Kampfkarren/selene](https://github.com/Kampfkarren/selene) - A blazing-fast modern Lua linter written in Rust
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
-- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [hugovk/pypistats](https://github.com/hugovk/pypistats) - Command-line interface to PyPI Stats API to get download stats for Python packages
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
@@ -1642,8 +1641,10 @@
 
 ## linux 
 
+- [vicrodh/chilpa](https://github.com/vicrodh/chilpa) - Crossplatform Music Player HiFi, BitPerfect, Multi Source
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [moiCR/Capsule](https://github.com/moiCR/Capsule) - A Wayland desktop shell built with GPUI
+- [thornbux/glimt](https://github.com/thornbux/glimt) - Quick image viewer in Rust inspired by Geeqie
 - [Bitpainter75/FerrumPix](https://github.com/Bitpainter75/FerrumPix) - FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS.
 - [freedesktop-rs/nmrs](https://github.com/freedesktop-rs/nmrs) - A Rust library for managing NetworkManager connections over D-Bus.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -1801,6 +1802,7 @@
 
 ## macos 
 
+- [vicrodh/chilpa](https://github.com/vicrodh/chilpa) - Crossplatform Music Player HiFi, BitPerfect, Multi Source
 - [Bitpainter75/FerrumPix](https://github.com/Bitpainter75/FerrumPix) - FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -1862,7 +1864,7 @@
 - [bullets-vim/bullets.vim](https://github.com/bullets-vim/bullets.vim) - 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
-- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
+- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
@@ -2187,7 +2189,6 @@
 - [navikt/cplt](https://github.com/navikt/cplt) - Sandbox for AI coding agents. Runs Copilot CLI, Claude Code, OpenCode, Gemini CLI, Antigravity, Pi, goose or a plain shell inside a kernel-level sandbox, with git and gh guards and sandbox policy comm
 - [ernestoCruz05/mdisplay](https://github.com/ernestoCruz05/mdisplay) - GUI monitor layout manager for mangowc :3
 - [blackhat-7/vellum.nvim](https://github.com/blackhat-7/vellum.nvim) - Live, beautiful GitHub-markdown preview beside your buffer in Neovim — mermaid diagrams as real images, in the terminal.
-- [thornbux/glimt](https://github.com/thornbux/glimt) - Quick image viewer in Rust inspired by Geeqie
 - [sverrejb/auox](https://github.com/sverrejb/auox) - Aurum Oxydatum - The terminal banking application for Sparebank 1 customers.
 - [flo-bit/atmo-events](https://github.com/flo-bit/atmo-events) - 
 - [OpenMeet-Team/openmeet-api](https://github.com/OpenMeet-Team/openmeet-api) - Provides the API for OpenMeet
@@ -3012,7 +3013,9 @@
 
 ## rust 
 
+- [vicrodh/chilpa](https://github.com/vicrodh/chilpa) - Crossplatform Music Player HiFi, BitPerfect, Multi Source
 - [moiCR/Capsule](https://github.com/moiCR/Capsule) - A Wayland desktop shell built with GPUI
+- [thornbux/glimt](https://github.com/thornbux/glimt) - Quick image viewer in Rust inspired by Geeqie
 - [tsirysndr/rockboxd](https://github.com/tsirysndr/rockboxd) - A modern, network-enabled music player platform built on Rockbox technology https://www.rockbox.org
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
