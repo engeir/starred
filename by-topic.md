@@ -2081,6 +2081,7 @@
 
 ## nextjs 
 
+- [haroldadmin/attrails](https://github.com/haroldadmin/attrails) - Discover running, hiking, cycling routes on the open social web
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
@@ -2529,7 +2530,7 @@
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [tjdevries/gruvbuddy.nvim](https://github.com/tjdevries/gruvbuddy.nvim) - Gruvbox colors using https://github.com/tjdevries/colorbuddy.vim
-- [sunknudsen/guides](https://github.com/sunknudsen/guides) - Explore guides
+- [sunknudsen/guides](https://github.com/sunknudsen/guides) - Configure hardware and software for more privacy and security (or superproductivity).
 - [David-OConnor/pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python
 - [paw-lu/nbpreview](https://github.com/paw-lu/nbpreview) - A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
 - [moyaproject/moya-techblog](https://github.com/moyaproject/moya-techblog) - Blog software for code and Photography
@@ -3014,6 +3015,7 @@
 
 ## rust 
 
+- [haroldadmin/attrails](https://github.com/haroldadmin/attrails) - Discover running, hiking, cycling routes on the open social web
 - [vicrodh/chilpa](https://github.com/vicrodh/chilpa) - Crossplatform Music Player HiFi, BitPerfect, Multi Source
 - [moiCR/Capsule](https://github.com/moiCR/Capsule) - A Wayland desktop shell built with GPUI
 - [thornbux/glimt](https://github.com/thornbux/glimt) - Quick image viewer in Rust inspired by Geeqie
