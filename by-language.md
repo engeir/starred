@@ -1044,6 +1044,7 @@
 
 ## Rust 
 
+- [haroldadmin/attrails](https://github.com/haroldadmin/attrails) - Discover running, hiking, cycling routes on the open social web
 - [navikt/cplt](https://github.com/navikt/cplt) - Sandbox for AI coding agents. Runs Copilot CLI, Claude Code, OpenCode, Gemini CLI, Antigravity, Pi, goose or a plain shell inside a kernel-level sandbox, with git and gh guards and sandbox policy comm
 - [ernestoCruz05/mdisplay](https://github.com/ernestoCruz05/mdisplay) - GUI monitor layout manager for mangowc :3
 - [moiCR/Capsule](https://github.com/moiCR/Capsule) - A Wayland desktop shell built with GPUI
@@ -1429,7 +1430,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [folke/polydock](https://github.com/folke/polydock) - ✨ A shiny and hackable application dock
 - [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed.
-- [sunknudsen/guides](https://github.com/sunknudsen/guides) - Explore guides
+- [sunknudsen/guides](https://github.com/sunknudsen/guides) - Configure hardware and software for more privacy and security (or superproductivity).
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
