@@ -1057,7 +1057,7 @@
 - [serhez/editr](https://github.com/serhez/editr) - Open remote projects in local editors through a Mutagen-backed mirror
 - [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
 - [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
-- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic code review for the Linux kernel and other critical open-source systems software
 - [giacomopiccinini/scriptor](https://github.com/giacomopiccinini/scriptor) - Local speech-to-text CLI & TUI
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [Firstp1ck/Pacsea](https://github.com/Firstp1ck/Pacsea) - Fast TUI for searching, inspecting, and queueing pacman/AUR packages.
@@ -1212,7 +1212,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-- [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Rust By Practice will evolve into Origin.
+- [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Practice your rust skill hardly
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
